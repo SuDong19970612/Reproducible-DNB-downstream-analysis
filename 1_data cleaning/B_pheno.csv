@@ -1,0 +1,726 @@
+"","ID","Cell_Type","Patient_ID","Stage","CRC_Type","Sex","Age"
+"60","C473_0082_N",2,"C473","III","Rectum","Male",84
+"67","C473_0091_P2",2,"C473","III","Rectum","Male",84
+"78","C473_0107_C3",2,"C473","III","Rectum","Male",84
+"88","C473_0119_P2",2,"C473","III","Rectum","Male",84
+"98","C473_0132_N",2,"C473","III","Rectum","Male",84
+"106","C473_0143_P2",2,"C473","III","Rectum","Male",84
+"116","C473_0155_N",2,"C473","III","Rectum","Male",84
+"118","C473_0157_P2",2,"C473","III","Rectum","Male",84
+"144","C473_0196_P1",2,"C473","III","Rectum","Male",84
+"153","C473_0206_P1",2,"C473","III","Rectum","Male",84
+"168","C473_0221_P1",2,"C473","III","Rectum","Male",84
+"178","C473_0232_P1",2,"C473","III","Rectum","Male",84
+"187","C473_0241_N",2,"C473","III","Rectum","Male",84
+"191","C473_0246_P1",2,"C473","III","Rectum","Male",84
+"197","C473_0252_P1",2,"C473","III","Rectum","Male",84
+"200","C473_0255_P1",2,"C473","III","Rectum","Male",84
+"203","C473_0260_P1",2,"C473","III","Rectum","Male",84
+"212","C473_0270_P1",2,"C473","III","Rectum","Male",84
+"218","C473_0276_P1",2,"C473","III","Rectum","Male",84
+"230","C473_0288_P1",2,"C473","III","Rectum","Male",84
+"270","C481_0035_C5",2,"C481","IV","Right Colon","Male",77
+"347","C481_0174_C5",2,"C481","IV","Right Colon","Male",77
+"365","C481_0199_P2",2,"C481","IV","Right Colon","Male",77
+"378","C481_0217_C5",2,"C481","IV","Right Colon","Male",77
+"390","C481_0234_P2",2,"C481","IV","Right Colon","Male",77
+"398","C481_0244_P2",2,"C481","IV","Right Colon","Male",77
+"413","C481_0265_C5",2,"C481","IV","Right Colon","Male",77
+"428","C481_0284_P2",2,"C481","IV","Right Colon","Male",77
+"431","C481_0287_P2",2,"C481","IV","Right Colon","Male",77
+"438","C481_0294_P2",2,"C481","IV","Right Colon","Male",77
+"463","C481_0329_P2",2,"C481","IV","Right Colon","Male",77
+"465","C481_0331_P2",2,"C481","IV","Right Colon","Male",77
+"468","C481_0336_P2",2,"C481","IV","Right Colon","Male",77
+"476","C481_0345_P2",2,"C481","IV","Right Colon","Male",77
+"484","C481_0354_P2",2,"C481","IV","Right Colon","Male",77
+"507","C481_0385_P2",2,"C481","IV","Right Colon","Male",77
+"514","C481_0393_P2",2,"C481","IV","Right Colon","Male",77
+"518","C481_0400_P2",2,"C481","IV","Right Colon","Male",77
+"521","C481_0403_P2",2,"C481","IV","Right Colon","Male",77
+"522","C481_0404_P2",2,"C481","IV","Right Colon","Male",77
+"525","C481_0407_P2",2,"C481","IV","Right Colon","Male",77
+"551","C481_0441_P2",2,"C481","IV","Right Colon","Male",77
+"557","C481_0451_P2",2,"C481","IV","Right Colon","Male",77
+"558","C481_0452_P2",2,"C481","IV","Right Colon","Male",77
+"572","C481_0471_P2",2,"C481","IV","Right Colon","Male",77
+"577","C481_0476_P2",2,"C481","IV","Right Colon","Male",77
+"579","C481_0478_P2",2,"C481","IV","Right Colon","Male",77
+"581","C481_0480_P2",2,"C481","IV","Right Colon","Male",77
+"589","C481_0488_C4",2,"C481","IV","Right Colon","Male",77
+"590","C481_0489_C4",2,"C481","IV","Right Colon","Male",77
+"593","C481_0492_C4",2,"C481","IV","Right Colon","Male",77
+"610","C481_0511_N",2,"C481","IV","Right Colon","Male",77
+"615","C481_0516_C4",2,"C481","IV","Right Colon","Male",77
+"616","C481_0517_C4",2,"C481","IV","Right Colon","Male",77
+"617","C481_0519_P1",2,"C481","IV","Right Colon","Male",77
+"621","C481_0523_C2",2,"C481","IV","Right Colon","Male",77
+"626","C481_0528_C4",2,"C481","IV","Right Colon","Male",77
+"632","C481_0535_P1",2,"C481","IV","Right Colon","Male",77
+"638","C481_0543_N",2,"C481","IV","Right Colon","Male",77
+"639","C481_0544_P1",2,"C481","IV","Right Colon","Male",77
+"640","C481_0545_C2",2,"C481","IV","Right Colon","Male",77
+"641","C481_0546_C4",2,"C481","IV","Right Colon","Male",77
+"645","C481_0550_N",2,"C481","IV","Right Colon","Male",77
+"647","C481_0552_P1",2,"C481","IV","Right Colon","Male",77
+"656","C481_0561_C4",2,"C481","IV","Right Colon","Male",77
+"661","C481_0566_N",2,"C481","IV","Right Colon","Male",77
+"665","C481_0570_C2",2,"C481","IV","Right Colon","Male",77
+"666","C481_0572_C4",2,"C481","IV","Right Colon","Male",77
+"674","C481_0582_N",2,"C481","IV","Right Colon","Male",77
+"676","C481_0584_C2",2,"C481","IV","Right Colon","Male",77
+"678","C481_0586_N",2,"C481","IV","Right Colon","Male",77
+"679","C481_0587_N",2,"C481","IV","Right Colon","Male",77
+"682","C481_0592_P1",2,"C481","IV","Right Colon","Male",77
+"687","C481_0598_P1",2,"C481","IV","Right Colon","Male",77
+"689","C481_0600_N",2,"C481","IV","Right Colon","Male",77
+"690","C481_0601_P1",2,"C481","IV","Right Colon","Male",77
+"694","C481_0605_N",2,"C481","IV","Right Colon","Male",77
+"696","C481_0607_N",2,"C481","IV","Right Colon","Male",77
+"697","C481_0608_N",2,"C481","IV","Right Colon","Male",77
+"707","C481_0621_P1",2,"C481","IV","Right Colon","Male",77
+"708","C481_0622_P1",2,"C481","IV","Right Colon","Male",77
+"714","C481_0629_N",2,"C481","IV","Right Colon","Male",77
+"716","C481_0631_N",2,"C481","IV","Right Colon","Male",77
+"717","C481_0632_N",2,"C481","IV","Right Colon","Male",77
+"718","C481_0633_P1",2,"C481","IV","Right Colon","Male",77
+"719","C481_0634_N",2,"C481","IV","Right Colon","Male",77
+"720","C481_0635_P1",2,"C481","IV","Right Colon","Male",77
+"725","C481_0640_N",2,"C481","IV","Right Colon","Male",77
+"730","C481_0645_P1",2,"C481","IV","Right Colon","Male",77
+"740","C481_0656_P1",2,"C481","IV","Right Colon","Male",77
+"742","C481_0658_P1",2,"C481","IV","Right Colon","Male",77
+"746","C481_0664_N",2,"C481","IV","Right Colon","Male",77
+"754","C481_0673_P1",2,"C481","IV","Right Colon","Male",77
+"759","C481_0678_C2",2,"C481","IV","Right Colon","Male",77
+"763","C481_0682_N",2,"C481","IV","Right Colon","Male",77
+"768","C481_0687_C4",2,"C481","IV","Right Colon","Male",77
+"769","C481_0688_C4",2,"C481","IV","Right Colon","Male",77
+"770","C481_0689_N",2,"C481","IV","Right Colon","Male",77
+"771","C481_0690_N",2,"C481","IV","Right Colon","Male",77
+"782","C481_0702_C4",2,"C481","IV","Right Colon","Male",77
+"783","C481_0703_C4",2,"C481","IV","Right Colon","Male",77
+"799","C481_0720_C4",2,"C481","IV","Right Colon","Male",77
+"800","C481_0721_P1",2,"C481","IV","Right Colon","Male",77
+"809","C481_0730_C4",2,"C481","IV","Right Colon","Male",77
+"811","C481_0732_C4",2,"C481","IV","Right Colon","Male",77
+"823","C481_0744_C4",2,"C481","IV","Right Colon","Male",77
+"830","C481_0752_C4",2,"C481","IV","Right Colon","Male",77
+"836","C481_0758_C2",2,"C481","IV","Right Colon","Male",77
+"838","C481_0760_C4",2,"C481","IV","Right Colon","Male",77
+"846","C481_0768_C4",2,"C481","IV","Right Colon","Male",77
+"851","C481_0773_C2",2,"C481","IV","Right Colon","Male",77
+"854","C481_0776_N",2,"C481","IV","Right Colon","Male",77
+"858","C481_0780_C4",2,"C481","IV","Right Colon","Male",77
+"862","C481_0784_P1",2,"C481","IV","Right Colon","Male",77
+"869","C481_0791_N",2,"C481","IV","Right Colon","Male",77
+"873","C481_0796_C4",2,"C481","IV","Right Colon","Male",77
+"883","C481_0806_P1",2,"C481","IV","Right Colon","Male",77
+"888","C481_0811_C4",2,"C481","IV","Right Colon","Male",77
+"891","C481_0814_P1",2,"C481","IV","Right Colon","Male",77
+"894","C481_0817_C4",2,"C481","IV","Right Colon","Male",77
+"910","C481_0833_C4",2,"C481","IV","Right Colon","Male",77
+"917","C481_0841_C4",2,"C481","IV","Right Colon","Male",77
+"919","C481_0843_C4",2,"C481","IV","Right Colon","Male",77
+"920","C481_0844_C4",2,"C481","IV","Right Colon","Male",77
+"922","C481_0847_P1",2,"C481","IV","Right Colon","Male",77
+"930","C481_0857_C4",2,"C481","IV","Right Colon","Male",77
+"931","C481_0858_C4",2,"C481","IV","Right Colon","Male",77
+"934","C481_0861_P1",2,"C481","IV","Right Colon","Male",77
+"938","C481_0867_P1",2,"C481","IV","Right Colon","Male",77
+"940","C481_0870_N",2,"C481","IV","Right Colon","Male",77
+"941","C481_0871_C4",2,"C481","IV","Right Colon","Male",77
+"947","C481_0877_N",2,"C481","IV","Right Colon","Male",77
+"951","C481_0881_P1",2,"C481","IV","Right Colon","Male",77
+"952","C481_0882_N",2,"C481","IV","Right Colon","Male",77
+"955","C481_0885_P1",2,"C481","IV","Right Colon","Male",77
+"963","C481_0893_P1",2,"C481","IV","Right Colon","Male",77
+"964","C481_0894_N",2,"C481","IV","Right Colon","Male",77
+"966","C481_0896_C4",2,"C481","IV","Right Colon","Male",77
+"968","C481_0899_N",2,"C481","IV","Right Colon","Male",77
+"971","C481_0902_N",2,"C481","IV","Right Colon","Male",77
+"975","C481_0906_P1",2,"C481","IV","Right Colon","Male",77
+"976","C481_0907_N",2,"C481","IV","Right Colon","Male",77
+"979","C481_0911_C4",2,"C481","IV","Right Colon","Male",77
+"981","C481_0913_N",2,"C481","IV","Right Colon","Male",77
+"985","C481_0918_P1",2,"C481","IV","Right Colon","Male",77
+"988","C481_0921_P1",2,"C481","IV","Right Colon","Male",77
+"989","C481_0922_N",2,"C481","IV","Right Colon","Male",77
+"992","C481_0925_N",2,"C481","IV","Right Colon","Male",77
+"1010","C481_0945_N",2,"C481","IV","Right Colon","Male",77
+"1018","C481_0956_N",2,"C481","IV","Right Colon","Male",77
+"1019","C481_0957_P1",2,"C481","IV","Right Colon","Male",77
+"1025","C481_0963_P1",2,"C481","IV","Right Colon","Male",77
+"1027","C481_0965_N",2,"C481","IV","Right Colon","Male",77
+"1030","C481_0968_C2",2,"C481","IV","Right Colon","Male",77
+"1040","C481_0981_N",2,"C481","IV","Right Colon","Male",77
+"1049","C481_0991_C2",2,"C481","IV","Right Colon","Male",77
+"1051","C481_0993_C4",2,"C481","IV","Right Colon","Male",77
+"1052","C481_0994_C4",2,"C481","IV","Right Colon","Male",77
+"1079","LC03_0033_C2",2,"LC03","IV","Left Colon","Male",30
+"1093","LC03_0048_C5",2,"LC03","IV","Left Colon","Male",30
+"1096","LC03_0051_C4",2,"LC03","IV","Left Colon","Male",30
+"1121","LC03_0077_C4",2,"LC03","IV","Left Colon","Male",30
+"1144","LC03_0106_C5",2,"LC03","IV","Left Colon","Male",30
+"1145","LC03_0107_N",2,"LC03","IV","Left Colon","Male",30
+"1153","LC03_0115_N",2,"LC03","IV","Left Colon","Male",30
+"1157","LC03_0119_N",2,"LC03","IV","Left Colon","Male",30
+"1158","LC03_0120_N",2,"LC03","IV","Left Colon","Male",30
+"1161","LC03_0124_N",2,"LC03","IV","Left Colon","Male",30
+"1162","LC03_0125_N",2,"LC03","IV","Left Colon","Male",30
+"1165","LC03_0129_C5",2,"LC03","IV","Left Colon","Male",30
+"1169","LC03_0133_N",2,"LC03","IV","Left Colon","Male",30
+"1179","LC03_0144_N",2,"LC03","IV","Left Colon","Male",30
+"1183","LC03_0149_N",2,"LC03","IV","Left Colon","Male",30
+"1186","LC03_0152_N",2,"LC03","IV","Left Colon","Male",30
+"1195","LC03_0163_N",2,"LC03","IV","Left Colon","Male",30
+"1196","LC03_0164_N",2,"LC03","IV","Left Colon","Male",30
+"1199","LC03_0167_N",2,"LC03","IV","Left Colon","Male",30
+"1204","LC03_0173_N",2,"LC03","IV","Left Colon","Male",30
+"1208","LC03_0178_N",2,"LC03","IV","Left Colon","Male",30
+"1210","LC03_0180_N",2,"LC03","IV","Left Colon","Male",30
+"1212","LC03_0182_N",2,"LC03","IV","Left Colon","Male",30
+"1213","LC03_0184_N",2,"LC03","IV","Left Colon","Male",30
+"1215","LC03_0186_N",2,"LC03","IV","Left Colon","Male",30
+"1219","LC03_0190_N",2,"LC03","IV","Left Colon","Male",30
+"1224","LC03_0195_N",2,"LC03","IV","Left Colon","Male",30
+"1226","LC03_0198_N",2,"LC03","IV","Left Colon","Male",30
+"1233","LC03_0205_N",2,"LC03","IV","Left Colon","Male",30
+"1236","LC03_0208_N",2,"LC03","IV","Left Colon","Male",30
+"1239","LC03_0211_N",2,"LC03","IV","Left Colon","Male",30
+"1242","LC03_0218_N",2,"LC03","IV","Left Colon","Male",30
+"1249","LC03_0225_N",2,"LC03","IV","Left Colon","Male",30
+"1253","LC03_0229_N",2,"LC03","IV","Left Colon","Male",30
+"1262","LC03_0239_N",2,"LC03","IV","Left Colon","Male",30
+"1265","LC03_0242_N",2,"LC03","IV","Left Colon","Male",30
+"1268","LC03_0246_N",2,"LC03","IV","Left Colon","Male",30
+"1269","LC03_0247_N",2,"LC03","IV","Left Colon","Male",30
+"1274","LC03_0252_N",2,"LC03","IV","Left Colon","Male",30
+"1276","LC03_0254_N",2,"LC03","IV","Left Colon","Male",30
+"1277","LC03_0256_N",2,"LC03","IV","Left Colon","Male",30
+"1278","LC03_0257_N",2,"LC03","IV","Left Colon","Male",30
+"1279","LC03_0258_N",2,"LC03","IV","Left Colon","Male",30
+"1295","LC03_0276_N",2,"LC03","IV","Left Colon","Male",30
+"1296","LC03_0277_N",2,"LC03","IV","Left Colon","Male",30
+"1302","LC03_0283_N",2,"LC03","IV","Left Colon","Male",30
+"1303","LC03_0284_N",2,"LC03","IV","Left Colon","Male",30
+"1311","LC03_0292_N",2,"LC03","IV","Left Colon","Male",30
+"1321","LC03_0302_P2",2,"LC03","IV","Left Colon","Male",30
+"1323","LC03_0304_P2",2,"LC03","IV","Left Colon","Male",30
+"1332","LC03_0314_N",2,"LC03","IV","Left Colon","Male",30
+"1334","LC03_0316_N",2,"LC03","IV","Left Colon","Male",30
+"1340","LC03_0322_N",2,"LC03","IV","Left Colon","Male",30
+"1346","LC03_0328_P2",2,"LC03","IV","Left Colon","Male",30
+"1353","LC03_0338_N",2,"LC03","IV","Left Colon","Male",30
+"1366","LC03_0352_P2",2,"LC03","IV","Left Colon","Male",30
+"1371","LC03_0357_P2",2,"LC03","IV","Left Colon","Male",30
+"1373","LC03_0359_P2",2,"LC03","IV","Left Colon","Male",30
+"1377","LC03_0363_N",2,"LC03","IV","Left Colon","Male",30
+"1381","LC03_0368_P2",2,"LC03","IV","Left Colon","Male",30
+"1388","LC03_0376_P2",2,"LC03","IV","Left Colon","Male",30
+"1390","LC03_0378_N",2,"LC03","IV","Left Colon","Male",30
+"1396","LC03_0385_P2",2,"LC03","IV","Left Colon","Male",30
+"1404","LC03_0394_P2",2,"LC03","IV","Left Colon","Male",30
+"1412","LC03_0402_P2",2,"LC03","IV","Left Colon","Male",30
+"1413","LC03_0403_P2",2,"LC03","IV","Left Colon","Male",30
+"1416","LC03_0406_P2",2,"LC03","IV","Left Colon","Male",30
+"1417","LC03_0407_P2",2,"LC03","IV","Left Colon","Male",30
+"1418","LC03_0408_P2",2,"LC03","IV","Left Colon","Male",30
+"1420","LC03_0410_P2",2,"LC03","IV","Left Colon","Male",30
+"1422","LC03_0412_P2",2,"LC03","IV","Left Colon","Male",30
+"1425","LC03_0415_P2",2,"LC03","IV","Left Colon","Male",30
+"1427","LC03_0417_P2",2,"LC03","IV","Left Colon","Male",30
+"1429","LC03_0419_P2",2,"LC03","IV","Left Colon","Male",30
+"1434","LC03_0424_P2",2,"LC03","IV","Left Colon","Male",30
+"1435","LC03_0425_P2",2,"LC03","IV","Left Colon","Male",30
+"1441","LC03_0431_P2",2,"LC03","IV","Left Colon","Male",30
+"1445","LC03_0435_P2",2,"LC03","IV","Left Colon","Male",30
+"1451","LC03_0441_P2",2,"LC03","IV","Left Colon","Male",30
+"1453","LC03_0443_P2",2,"LC03","IV","Left Colon","Male",30
+"1454","LC03_0444_P2",2,"LC03","IV","Left Colon","Male",30
+"1455","LC03_0445_P2",2,"LC03","IV","Left Colon","Male",30
+"1461","LC03_0451_P2",2,"LC03","IV","Left Colon","Male",30
+"1464","LC03_0454_P2",2,"LC03","IV","Left Colon","Male",30
+"1465","LC03_0455_P2",2,"LC03","IV","Left Colon","Male",30
+"1471","LC03_0461_P2",2,"LC03","IV","Left Colon","Male",30
+"1472","LC03_0462_P2",2,"LC03","IV","Left Colon","Male",30
+"1473","LC03_0463_P2",2,"LC03","IV","Left Colon","Male",30
+"1474","LC03_0464_P2",2,"LC03","IV","Left Colon","Male",30
+"1475","LC03_0465_P2",2,"LC03","IV","Left Colon","Male",30
+"1478","LC03_0468_P2",2,"LC03","IV","Left Colon","Male",30
+"1484","LC03_0474_P2",2,"LC03","IV","Left Colon","Male",30
+"1489","LC03_0479_P2",2,"LC03","IV","Left Colon","Male",30
+"1490","LC03_0480_P2",2,"LC03","IV","Left Colon","Male",30
+"1491","LC03_0481_P2",2,"LC03","IV","Left Colon","Male",30
+"1493","LC03_0483_P2",2,"LC03","IV","Left Colon","Male",30
+"1498","LC03_0488_P2",2,"LC03","IV","Left Colon","Male",30
+"1499","LC03_0489_P2",2,"LC03","IV","Left Colon","Male",30
+"1500","LC03_0490_P2",2,"LC03","IV","Left Colon","Male",30
+"1501","LC03_0491_P2",2,"LC03","IV","Left Colon","Male",30
+"1503","LC03_0493_P2",2,"LC03","IV","Left Colon","Male",30
+"1504","LC03_0494_P2",2,"LC03","IV","Left Colon","Male",30
+"1506","LC03_0496_P2",2,"LC03","IV","Left Colon","Male",30
+"1507","LC03_0497_P2",2,"LC03","IV","Left Colon","Male",30
+"1509","LC03_0499_P2",2,"LC03","IV","Left Colon","Male",30
+"1510","LC03_0500_P2",2,"LC03","IV","Left Colon","Male",30
+"1511","LC03_0501_P2",2,"LC03","IV","Left Colon","Male",30
+"1512","LC03_0502_P2",2,"LC03","IV","Left Colon","Male",30
+"1513","LC03_0503_P2",2,"LC03","IV","Left Colon","Male",30
+"1517","LC03_0508_P2",2,"LC03","IV","Left Colon","Male",30
+"1518","LC03_0509_P2",2,"LC03","IV","Left Colon","Male",30
+"1519","LC03_0510_P2",2,"LC03","IV","Left Colon","Male",30
+"1521","LC03_0512_P2",2,"LC03","IV","Left Colon","Male",30
+"1522","LC03_0513_P2",2,"LC03","IV","Left Colon","Male",30
+"1524","LC03_0515_P2",2,"LC03","IV","Left Colon","Male",30
+"1525","LC03_0516_P2",2,"LC03","IV","Left Colon","Male",30
+"1529","LC03_0520_P2",2,"LC03","IV","Left Colon","Male",30
+"1532","LC03_0523_P2",2,"LC03","IV","Left Colon","Male",30
+"1533","LC03_0524_P2",2,"LC03","IV","Left Colon","Male",30
+"1537","LC03_0529_P2",2,"LC03","IV","Left Colon","Male",30
+"1539","LC03_0531_P2",2,"LC03","IV","Left Colon","Male",30
+"1540","LC03_0532_P2",2,"LC03","IV","Left Colon","Male",30
+"1541","LC03_0533_P2",2,"LC03","IV","Left Colon","Male",30
+"1545","LC03_0537_P2",2,"LC03","IV","Left Colon","Male",30
+"1546","LC03_0538_P2",2,"LC03","IV","Left Colon","Male",30
+"1549","LC03_0541_P2",2,"LC03","IV","Left Colon","Male",30
+"1554","LC03_0546_P2",2,"LC03","IV","Left Colon","Male",30
+"1555","LC03_0547_P2",2,"LC03","IV","Left Colon","Male",30
+"1558","LC03_0550_P2",2,"LC03","IV","Left Colon","Male",30
+"1561","LC03_0553_P2",2,"LC03","IV","Left Colon","Male",30
+"1563","LC03_0555_P2",2,"LC03","IV","Left Colon","Male",30
+"1564","LC03_0556_P2",2,"LC03","IV","Left Colon","Male",30
+"1569","LC03_0561_P2",2,"LC03","IV","Left Colon","Male",30
+"1570","LC03_0562_P2",2,"LC03","IV","Left Colon","Male",30
+"1571","LC03_0563_P2",2,"LC03","IV","Left Colon","Male",30
+"1572","LC03_0564_P2",2,"LC03","IV","Left Colon","Male",30
+"1573","LC03_0565_P2",2,"LC03","IV","Left Colon","Male",30
+"1576","LC03_0568_P2",2,"LC03","IV","Left Colon","Male",30
+"1579","LC03_0571_P2",2,"LC03","IV","Left Colon","Male",30
+"1582","LC03_0574_P2",2,"LC03","IV","Left Colon","Male",30
+"1623","LC03_0618_C1",2,"LC03","IV","Left Colon","Male",30
+"1679","LC03_0678_C5",2,"LC03","IV","Left Colon","Male",30
+"1693","LC03_0694_C5",2,"LC03","IV","Left Colon","Male",30
+"1710","LC03_0711_C5",2,"LC03","IV","Left Colon","Male",30
+"1719","LC03_0722_C1",2,"LC03","IV","Left Colon","Male",30
+"1759","LC03_0764_C5",2,"LC03","IV","Left Colon","Male",30
+"1766","LC03_0771_Cm",2,"LC03","IV","Left Colon","Male",30
+"1868","LC03_0874_Pm",2,"LC03","IV","Left Colon","Male",30
+"1895","LC03_0902_Pm",2,"LC03","IV","Left Colon","Male",30
+"1943","LC03_0950_Pm",2,"LC03","IV","Left Colon","Male",30
+"1949","LC03_0956_Pm",2,"LC03","IV","Left Colon","Male",30
+"1996","LC03_1008_Pm",2,"LC03","IV","Left Colon","Male",30
+"2020","LC03_1037_Pm",2,"LC03","IV","Left Colon","Male",30
+"2047","LC03_1069_N",2,"LC03","IV","Left Colon","Male",30
+"2111","LC03_1136_P1",2,"LC03","IV","Left Colon","Male",30
+"2115","LC03_1140_N",2,"LC03","IV","Left Colon","Male",30
+"2154","RC02_0034_C1",2,"RC02","III","Right Colon","Female",55
+"2158","RC02_0038_C3",2,"RC02","III","Right Colon","Female",55
+"2163","RC02_0043_C1",2,"RC02","III","Right Colon","Female",55
+"2170","RC02_0051_C1",2,"RC02","III","Right Colon","Female",55
+"2180","RC02_0063_P2",2,"RC02","III","Right Colon","Female",55
+"2189","RC02_0072_P2",2,"RC02","III","Right Colon","Female",55
+"2219","RC02_0109_C5",2,"RC02","III","Right Colon","Female",55
+"2226","RC02_0117_C5",2,"RC02","III","Right Colon","Female",55
+"2238","RC02_0133_C5",2,"RC02","III","Right Colon","Female",55
+"2278","RC02_0181_C5",2,"RC02","III","Right Colon","Female",55
+"2279","RC02_0182_C5",2,"RC02","III","Right Colon","Female",55
+"2290","RC02_0194_C5",2,"RC02","III","Right Colon","Female",55
+"2304","RC02_0211_C5",2,"RC02","III","Right Colon","Female",55
+"2309","RC02_0217_C5",2,"RC02","III","Right Colon","Female",55
+"2311","RC02_0219_C5",2,"RC02","III","Right Colon","Female",55
+"2325","RC02_0236_C5",2,"RC02","III","Right Colon","Female",55
+"2330","RC02_0241_C5",2,"RC02","III","Right Colon","Female",55
+"2343","RC02_0254_N",2,"RC02","III","Right Colon","Female",55
+"2345","RC02_0256_N",2,"RC02","III","Right Colon","Female",55
+"2346","RC02_0257_C5",2,"RC02","III","Right Colon","Female",55
+"2354","RC02_0268_N",2,"RC02","III","Right Colon","Female",55
+"2387","RC02_0306_P1",2,"RC02","III","Right Colon","Female",55
+"2393","RC02_0313_P1",2,"RC02","III","Right Colon","Female",55
+"2396","RC02_0318_N",2,"RC02","III","Right Colon","Female",55
+"2400","RC02_0322_P1",2,"RC02","III","Right Colon","Female",55
+"2407","RC02_0330_P1",2,"RC02","III","Right Colon","Female",55
+"2408","RC02_0331_P1",2,"RC02","III","Right Colon","Female",55
+"2409","RC02_0332_N",2,"RC02","III","Right Colon","Female",55
+"2412","RC02_0337_P1",2,"RC02","III","Right Colon","Female",55
+"2415","RC02_0342_P1",2,"RC02","III","Right Colon","Female",55
+"2418","RC02_0346_N",2,"RC02","III","Right Colon","Female",55
+"2419","RC02_0347_P1",2,"RC02","III","Right Colon","Female",55
+"2427","RC02_0356_P1",2,"RC02","III","Right Colon","Female",55
+"2429","RC02_0362_P1",2,"RC02","III","Right Colon","Female",55
+"2431","RC02_0364_P1",2,"RC02","III","Right Colon","Female",55
+"2532","RC03_0113_C1",2,"RC03","I","Right Colon","Male",60
+"2604","RC03_0197_P2",2,"RC03","I","Right Colon","Male",60
+"2608","RC03_0201_C1",2,"RC03","I","Right Colon","Male",60
+"2613","RC03_0206_P2",2,"RC03","I","Right Colon","Male",60
+"2617","RC03_0210_P2",2,"RC03","I","Right Colon","Male",60
+"2627","RC03_0221_P2",2,"RC03","I","Right Colon","Male",60
+"2634","RC03_0228_P2",2,"RC03","I","Right Colon","Male",60
+"2640","RC03_0234_P2",2,"RC03","I","Right Colon","Male",60
+"2641","RC03_0235_P2",2,"RC03","I","Right Colon","Male",60
+"2643","RC03_0237_P2",2,"RC03","I","Right Colon","Male",60
+"2645","RC03_0239_P2",2,"RC03","I","Right Colon","Male",60
+"2648","RC03_0242_P2",2,"RC03","I","Right Colon","Male",60
+"2652","RC03_0246_P2",2,"RC03","I","Right Colon","Male",60
+"2654","RC03_0248_P2",2,"RC03","I","Right Colon","Male",60
+"2657","RC03_0251_P2",2,"RC03","I","Right Colon","Male",60
+"2689","RC03_0285_P2",2,"RC03","I","Right Colon","Male",60
+"2695","RC03_0292_P2",2,"RC03","I","Right Colon","Male",60
+"2699","RC03_0296_C3",2,"RC03","I","Right Colon","Male",60
+"2700","RC03_0297_P2",2,"RC03","I","Right Colon","Male",60
+"2702","RC03_0299_P2",2,"RC03","I","Right Colon","Male",60
+"2707","RC03_0306_P2",2,"RC03","I","Right Colon","Male",60
+"2714","RC03_0314_P2",2,"RC03","I","Right Colon","Male",60
+"2715","RC03_0315_P2",2,"RC03","I","Right Colon","Male",60
+"2719","RC03_0321_P2",2,"RC03","I","Right Colon","Male",60
+"2722","RC03_0324_P2",2,"RC03","I","Right Colon","Male",60
+"2729","RC03_0331_P2",2,"RC03","I","Right Colon","Male",60
+"2732","RC03_0334_C2",2,"RC03","I","Right Colon","Male",60
+"2734","RC03_0336_C3",2,"RC03","I","Right Colon","Male",60
+"2738","RC03_0340_P2",2,"RC03","I","Right Colon","Male",60
+"2745","RC03_0347_P2",2,"RC03","I","Right Colon","Male",60
+"2746","RC03_0348_P2",2,"RC03","I","Right Colon","Male",60
+"2748","RC03_0351_C3",2,"RC03","I","Right Colon","Male",60
+"2749","RC03_0352_C3",2,"RC03","I","Right Colon","Male",60
+"2751","RC03_0356_P2",2,"RC03","I","Right Colon","Male",60
+"2752","RC03_0358_C2",2,"RC03","I","Right Colon","Male",60
+"2756","RC03_0363_P2",2,"RC03","I","Right Colon","Male",60
+"2757","RC03_0364_P2",2,"RC03","I","Right Colon","Male",60
+"2760","RC03_0367_C3",2,"RC03","I","Right Colon","Male",60
+"2766","RC03_0374_C2",2,"RC03","I","Right Colon","Male",60
+"2770","RC03_0379_P2",2,"RC03","I","Right Colon","Male",60
+"2776","RC03_0386_C4",2,"RC03","I","Right Colon","Male",60
+"2787","RC03_0401_C3",2,"RC03","I","Right Colon","Male",60
+"2794","RC03_0408_N",2,"RC03","I","Right Colon","Male",60
+"2806","RC03_0425_C3",2,"RC03","I","Right Colon","Male",60
+"2854","RC03_0483_P1",2,"RC03","I","Right Colon","Male",60
+"2860","RC03_0490_P1",2,"RC03","I","Right Colon","Male",60
+"2877","RC03_0512_P1",2,"RC03","I","Right Colon","Male",60
+"2903","RC03_0541_P1",2,"RC03","I","Right Colon","Male",60
+"2908","RC03_0546_P1",2,"RC03","I","Right Colon","Male",60
+"2924","RC03_0565_P1",2,"RC03","I","Right Colon","Male",60
+"2929","RC03_0570_P1",2,"RC03","I","Right Colon","Male",60
+"2938","LC01_0006_C3",2,"LC01","II","Left Colon","Female",65
+"2943","LC01_0011_C1",2,"LC01","II","Left Colon","Female",65
+"2968","LC01_0038_P2",2,"LC01","II","Left Colon","Female",65
+"2973","LC01_0043_C1",2,"LC01","II","Left Colon","Female",65
+"2977","LC01_0048_P2",2,"LC01","II","Left Colon","Female",65
+"2979","LC01_0050_C1",2,"LC01","II","Left Colon","Female",65
+"2993","LC01_0064_C1",2,"LC01","II","Left Colon","Female",65
+"2997","LC01_0068_C1",2,"LC01","II","Left Colon","Female",65
+"3004","LC01_0077_P2",2,"LC01","II","Left Colon","Female",65
+"3013","LC01_0087_P2",2,"LC01","II","Left Colon","Female",65
+"3029","LC01_0105_P2",2,"LC01","II","Left Colon","Female",65
+"3037","LC01_0113_P2",2,"LC01","II","Left Colon","Female",65
+"3046","LC01_0124_C3",2,"LC01","II","Left Colon","Female",65
+"3051","LC01_0129_C1",2,"LC01","II","Left Colon","Female",65
+"3059","LC01_0138_P2",2,"LC01","II","Left Colon","Female",65
+"3063","LC01_0142_C3",2,"LC01","II","Left Colon","Female",65
+"3067","LC01_0146_P2",2,"LC01","II","Left Colon","Female",65
+"3068","LC01_0147_P2",2,"LC01","II","Left Colon","Female",65
+"3079","LC01_0158_P2",2,"LC01","II","Left Colon","Female",65
+"3080","LC01_0159_P2",2,"LC01","II","Left Colon","Female",65
+"3082","LC01_0161_C3",2,"LC01","II","Left Colon","Female",65
+"3106","LC01_0185_P2",2,"LC01","II","Left Colon","Female",65
+"3127","LC01_0206_P2",2,"LC01","II","Left Colon","Female",65
+"3151","LC01_0231_P2",2,"LC01","II","Left Colon","Female",65
+"3173","LC01_0253_P2",2,"LC01","II","Left Colon","Female",65
+"3180","LC01_0260_P2",2,"LC01","II","Left Colon","Female",65
+"3188","LC01_0269_P2",2,"LC01","II","Left Colon","Female",65
+"3189","LC01_0270_C3",2,"LC01","II","Left Colon","Female",65
+"3193","LC01_0274_C1",2,"LC01","II","Left Colon","Female",65
+"3204","LC01_0285_C3",2,"LC01","II","Left Colon","Female",65
+"3209","LC01_0290_C3",2,"LC01","II","Left Colon","Female",65
+"3222","LC01_0304_P2",2,"LC01","II","Left Colon","Female",65
+"3237","LC01_0321_P2",2,"LC01","II","Left Colon","Female",65
+"3238","LC01_0322_P2",2,"LC01","II","Left Colon","Female",65
+"3271","LC01_0357_C1",2,"LC01","II","Left Colon","Female",65
+"3273","LC01_0359_P2",2,"LC01","II","Left Colon","Female",65
+"3281","LC01_0367_C1",2,"LC01","II","Left Colon","Female",65
+"3331","LC01_0423_C1",2,"LC01","II","Left Colon","Female",65
+"3350","LC01_0442_C1",2,"LC01","II","Left Colon","Female",65
+"3353","LC01_0445_C1",2,"LC01","II","Left Colon","Female",65
+"3376","LC01_0468_C1",2,"LC01","II","Left Colon","Female",65
+"3384","LC01_0476_C1",2,"LC01","II","Left Colon","Female",65
+"3397","LC01_0489_C1",2,"LC01","II","Left Colon","Female",65
+"3407","LC01_0499_C1",2,"LC01","II","Left Colon","Female",65
+"3410","LC01_0503_C3",2,"LC01","II","Left Colon","Female",65
+"3412","LC01_0505_C1",2,"LC01","II","Left Colon","Female",65
+"3426","LC01_0521_C1",2,"LC01","II","Left Colon","Female",65
+"3445","LC01_0542_C3",2,"LC01","II","Left Colon","Female",65
+"3449","LC01_0546_C1",2,"LC01","II","Left Colon","Female",65
+"3466","LC01_0563_C1",2,"LC01","II","Left Colon","Female",65
+"3493","LC01_0590_N",2,"LC01","II","Left Colon","Female",65
+"3496","LC01_0595_N",2,"LC01","II","Left Colon","Female",65
+"3498","LC01_0597_N",2,"LC01","II","Left Colon","Female",65
+"3506","LC01_0605_N",2,"LC01","II","Left Colon","Female",65
+"3523","LC01_0624_N",2,"LC01","II","Left Colon","Female",65
+"3527","LC01_0628_N",2,"LC01","II","Left Colon","Female",65
+"3537","LC01_0639_N",2,"LC01","II","Left Colon","Female",65
+"3551","LC01_0653_N",2,"LC01","II","Left Colon","Female",65
+"3557","LC01_0660_N",2,"LC01","II","Left Colon","Female",65
+"3564","LC01_0667_N",2,"LC01","II","Left Colon","Female",65
+"3568","LC01_0671_N",2,"LC01","II","Left Colon","Female",65
+"3579","LC01_0685_P1",2,"LC01","II","Left Colon","Female",65
+"3580","LC01_0686_P1",2,"LC01","II","Left Colon","Female",65
+"3583","LC01_0695_P1",2,"LC01","II","Left Colon","Female",65
+"3586","LC01_0698_N",2,"LC01","II","Left Colon","Female",65
+"3590","LC01_0705_N",2,"LC01","II","Left Colon","Female",65
+"3591","LC01_0707_N",2,"LC01","II","Left Colon","Female",65
+"3592","LC01_0709_P1",2,"LC01","II","Left Colon","Female",65
+"3594","LC01_0711_P1",2,"LC01","II","Left Colon","Female",65
+"3596","LC01_0713_N",2,"LC01","II","Left Colon","Female",65
+"3598","LC01_0715_N",2,"LC01","II","Left Colon","Female",65
+"3603","LC01_0720_P1",2,"LC01","II","Left Colon","Female",65
+"3604","LC01_0721_N",2,"LC01","II","Left Colon","Female",65
+"3609","LC01_0728_P1",2,"LC01","II","Left Colon","Female",65
+"3610","LC01_0729_N",2,"LC01","II","Left Colon","Female",65
+"3613","LC01_0732_P1",2,"LC01","II","Left Colon","Female",65
+"3614","LC01_0733_P1",2,"LC01","II","Left Colon","Female",65
+"3615","LC01_0734_P1",2,"LC01","II","Left Colon","Female",65
+"3616","LC01_0735_P1",2,"LC01","II","Left Colon","Female",65
+"3624","LC01_0744_P1",2,"LC01","II","Left Colon","Female",65
+"3634","LC01_0758_P1",2,"LC01","II","Left Colon","Female",65
+"3640","LC01_0767_P1",2,"LC01","II","Left Colon","Female",65
+"3641","LC01_0768_P1",2,"LC01","II","Left Colon","Female",65
+"3642","LC01_0769_P1",2,"LC01","II","Left Colon","Female",65
+"3645","LC01_0772_P1",2,"LC01","II","Left Colon","Female",65
+"3646","LC01_0773_P1",2,"LC01","II","Left Colon","Female",65
+"3654","LC01_0785_P1",2,"LC01","II","Left Colon","Female",65
+"3661","LC01_0795_P1",2,"LC01","II","Left Colon","Female",65
+"3664","LC01_0799_P1",2,"LC01","II","Left Colon","Female",65
+"3669","LC01_0806_P1",2,"LC01","II","Left Colon","Female",65
+"3670","LC01_0808_P1",2,"LC01","II","Left Colon","Female",65
+"3673","LC01_0814_P1",2,"LC01","II","Left Colon","Female",65
+"3675","LC01_0816_P1",2,"LC01","II","Left Colon","Female",65
+"3677","LC01_0819_P1",2,"LC01","II","Left Colon","Female",65
+"3678","LC01_0820_P1",2,"LC01","II","Left Colon","Female",65
+"3679","LC01_0822_P1",2,"LC01","II","Left Colon","Female",65
+"3770","R03_0098_P2",2,"R03","III","Rectum","Female",63
+"3775","R03_0104_P2",2,"R03","III","Rectum","Female",63
+"3777","R03_0106_P2",2,"R03","III","Rectum","Female",63
+"3786","R03_0116_P2",2,"R03","III","Rectum","Female",63
+"3792","R03_0123_P2",2,"R03","III","Rectum","Female",63
+"3806","R03_0140_P2",2,"R03","III","Rectum","Female",63
+"3807","R03_0141_P2",2,"R03","III","Rectum","Female",63
+"3810","R03_0145_P2",2,"R03","III","Rectum","Female",63
+"3811","R03_0146_P2",2,"R03","III","Rectum","Female",63
+"3813","R03_0149_P2",2,"R03","III","Rectum","Female",63
+"3822","R03_0158_P2",2,"R03","III","Rectum","Female",63
+"3831","R03_0170_P2",2,"R03","III","Rectum","Female",63
+"3842","R03_0184_P2",2,"R03","III","Rectum","Female",63
+"3843","R03_0185_P2",2,"R03","III","Rectum","Female",63
+"3846","R03_0188_P2",2,"R03","III","Rectum","Female",63
+"3848","R03_0190_P2",2,"R03","III","Rectum","Female",63
+"3865","R03_0211_P2",2,"R03","III","Rectum","Female",63
+"3870","R03_0217_P2",2,"R03","III","Rectum","Female",63
+"3871","R03_0218_P2",2,"R03","III","Rectum","Female",63
+"3872","R03_0219_P2",2,"R03","III","Rectum","Female",63
+"3878","R03_0225_P2",2,"R03","III","Rectum","Female",63
+"3880","R03_0228_P2",2,"R03","III","Rectum","Female",63
+"3881","R03_0229_P2",2,"R03","III","Rectum","Female",63
+"3900","R03_0252_P2",2,"R03","III","Rectum","Female",63
+"3908","R03_0262_C1",2,"R03","III","Rectum","Female",63
+"3911","R03_0265_P2",2,"R03","III","Rectum","Female",63
+"3921","R03_0276_P2",2,"R03","III","Rectum","Female",63
+"3927","R03_0282_P2",2,"R03","III","Rectum","Female",63
+"3943","R03_0298_C4",2,"R03","III","Rectum","Female",63
+"3952","R03_0309_C4",2,"R03","III","Rectum","Female",63
+"3953","R03_0310_C4",2,"R03","III","Rectum","Female",63
+"3964","R03_0323_C4",2,"R03","III","Rectum","Female",63
+"3974","R03_0334_C4",2,"R03","III","Rectum","Female",63
+"3981","R03_0341_C4",2,"R03","III","Rectum","Female",63
+"3986","R03_0346_C4",2,"R03","III","Rectum","Female",63
+"3987","R03_0347_C4",2,"R03","III","Rectum","Female",63
+"4063","R03_0426_C5",2,"R03","III","Rectum","Female",63
+"4080","R03_0443_C5",2,"R03","III","Rectum","Female",63
+"4110","R03_0478_C5",2,"R03","III","Rectum","Female",63
+"4139","R03_0517_N",2,"R03","III","Rectum","Female",63
+"4146","R03_0526_N",2,"R03","III","Rectum","Female",63
+"4163","R03_0546_N",2,"R03","III","Rectum","Female",63
+"4178","R03_0563_N",2,"R03","III","Rectum","Female",63
+"4218","R03_0612_N",2,"R03","III","Rectum","Female",63
+"4225","R03_0621_N",2,"R03","III","Rectum","Female",63
+"4246","R03_0648_N",2,"R03","III","Rectum","Female",63
+"4369","R02_0019_C3",2,"R02","I","Rectum","Male",39
+"4371","R02_0021_C3",2,"R02","I","Rectum","Male",39
+"4380","R02_0030_C3",2,"R02","I","Rectum","Male",39
+"4387","R02_0037_C3",2,"R02","I","Rectum","Male",39
+"4407","R02_0058_C3",2,"R02","I","Rectum","Male",39
+"4421","R02_0072_C3",2,"R02","I","Rectum","Male",39
+"4424","R02_0075_C3",2,"R02","I","Rectum","Male",39
+"4435","R02_0086_C3",2,"R02","I","Rectum","Male",39
+"4436","R02_0087_C3",2,"R02","I","Rectum","Male",39
+"4437","R02_0088_C3",2,"R02","I","Rectum","Male",39
+"4446","R02_0097_C3",2,"R02","I","Rectum","Male",39
+"4465","R02_0116_C4",2,"R02","I","Rectum","Male",39
+"4467","R02_0118_C4",2,"R02","I","Rectum","Male",39
+"4472","R02_0123_C4",2,"R02","I","Rectum","Male",39
+"4474","R02_0125_C4",2,"R02","I","Rectum","Male",39
+"4486","R02_0137_C3",2,"R02","I","Rectum","Male",39
+"4487","R02_0138_C3",2,"R02","I","Rectum","Male",39
+"4488","R02_0139_C4",2,"R02","I","Rectum","Male",39
+"4494","R02_0145_C3",2,"R02","I","Rectum","Male",39
+"4498","R02_0149_C4",2,"R02","I","Rectum","Male",39
+"4512","R02_0163_C4",2,"R02","I","Rectum","Male",39
+"4518","R02_0169_C3",2,"R02","I","Rectum","Male",39
+"4521","R02_0172_C4",2,"R02","I","Rectum","Male",39
+"4525","R02_0176_C4",2,"R02","I","Rectum","Male",39
+"4527","R02_0178_C3",2,"R02","I","Rectum","Male",39
+"4531","R02_0182_C4",2,"R02","I","Rectum","Male",39
+"4547","R02_0198_C5",2,"R02","I","Rectum","Male",39
+"4561","R02_0213_C5",2,"R02","I","Rectum","Male",39
+"4562","R02_0214_C5",2,"R02","I","Rectum","Male",39
+"4564","R02_0216_C5",2,"R02","I","Rectum","Male",39
+"4569","R02_0221_C5",2,"R02","I","Rectum","Male",39
+"4570","R02_0222_C5",2,"R02","I","Rectum","Male",39
+"4581","R02_0233_C4",2,"R02","I","Rectum","Male",39
+"4584","R02_0236_C4",2,"R02","I","Rectum","Male",39
+"4585","R02_0237_C5",2,"R02","I","Rectum","Male",39
+"4596","R02_0248_C5",2,"R02","I","Rectum","Male",39
+"4598","R02_0250_C4",2,"R02","I","Rectum","Male",39
+"4601","R02_0253_C5",2,"R02","I","Rectum","Male",39
+"4604","R02_0256_C5",2,"R02","I","Rectum","Male",39
+"4609","R02_0261_C5",2,"R02","I","Rectum","Male",39
+"4616","R02_0268_C4",2,"R02","I","Rectum","Male",39
+"4626","R02_0278_C5",2,"R02","I","Rectum","Male",39
+"4630","R02_0282_C4",2,"R02","I","Rectum","Male",39
+"4633","R02_0285_C5",2,"R02","I","Rectum","Male",39
+"4635","R02_0287_C5",2,"R02","I","Rectum","Male",39
+"4636","R02_0288_C5",2,"R02","I","Rectum","Male",39
+"4639","R02_0291_C5",2,"R02","I","Rectum","Male",39
+"4645","R02_0297_C5",2,"R02","I","Rectum","Male",39
+"4655","R02_0308_C5",2,"R02","I","Rectum","Male",39
+"4661","R02_0314_C5",2,"R02","I","Rectum","Male",39
+"4662","R02_0315_C5",2,"R02","I","Rectum","Male",39
+"4665","R02_0318_C5",2,"R02","I","Rectum","Male",39
+"4670","R02_0323_C5",2,"R02","I","Rectum","Male",39
+"4676","R02_0329_C5",2,"R02","I","Rectum","Male",39
+"4681","R02_0334_C5",2,"R02","I","Rectum","Male",39
+"4688","R02_0341_C5",2,"R02","I","Rectum","Male",39
+"4693","R02_0346_C5",2,"R02","I","Rectum","Male",39
+"4694","R02_0347_C5",2,"R02","I","Rectum","Male",39
+"4696","R02_0349_C5",2,"R02","I","Rectum","Male",39
+"4698","R02_0351_P2",2,"R02","I","Rectum","Male",39
+"4702","R02_0355_C5",2,"R02","I","Rectum","Male",39
+"4707","R02_0360_P2",2,"R02","I","Rectum","Male",39
+"4712","R02_0365_C5",2,"R02","I","Rectum","Male",39
+"4713","R02_0366_C5",2,"R02","I","Rectum","Male",39
+"4714","R02_0367_P2",2,"R02","I","Rectum","Male",39
+"4716","R02_0369_C5",2,"R02","I","Rectum","Male",39
+"4720","R02_0373_C5",2,"R02","I","Rectum","Male",39
+"4721","R02_0374_C5",2,"R02","I","Rectum","Male",39
+"4727","R02_0380_C5",2,"R02","I","Rectum","Male",39
+"4729","R02_0382_C5",2,"R02","I","Rectum","Male",39
+"4733","R02_0386_P2",2,"R02","I","Rectum","Male",39
+"4738","R02_0391_P2",2,"R02","I","Rectum","Male",39
+"4739","R02_0392_P2",2,"R02","I","Rectum","Male",39
+"4749","R02_0402_P2",2,"R02","I","Rectum","Male",39
+"4750","R02_0403_P2",2,"R02","I","Rectum","Male",39
+"4752","R02_0405_P2",2,"R02","I","Rectum","Male",39
+"4755","R02_0408_P2",2,"R02","I","Rectum","Male",39
+"4758","R02_0411_P2",2,"R02","I","Rectum","Male",39
+"4773","R02_0427_P2",2,"R02","I","Rectum","Male",39
+"4775","R02_0429_P2",2,"R02","I","Rectum","Male",39
+"4776","R02_0430_P2",2,"R02","I","Rectum","Male",39
+"4779","R02_0433_P2",2,"R02","I","Rectum","Male",39
+"4784","R02_0438_P2",2,"R02","I","Rectum","Male",39
+"4797","R02_0451_P2",2,"R02","I","Rectum","Male",39
+"4830","R02_0484_C1",2,"R02","I","Rectum","Male",39
+"4863","R02_0517_C1",2,"R02","I","Rectum","Male",39
+"4888","R02_0542_C1",2,"R02","I","Rectum","Male",39
+"4893","R02_0547_C1",2,"R02","I","Rectum","Male",39
+"4901","R02_0555_C1",2,"R02","I","Rectum","Male",39
+"4904","R02_0558_C1",2,"R02","I","Rectum","Male",39
+"4910","R02_0564_C1",2,"R02","I","Rectum","Male",39
+"4939","R02_0593_C1",2,"R02","I","Rectum","Male",39
+"4952","R02_0606_C1",2,"R02","I","Rectum","Male",39
+"4975","R02_0630_C1",2,"R02","I","Rectum","Male",39
+"5020","R02_0676_N",2,"R02","I","Rectum","Male",39
+"5027","R02_0683_N",2,"R02","I","Rectum","Male",39
+"5029","R02_0685_N",2,"R02","I","Rectum","Male",39
+"5030","R02_0686_N",2,"R02","I","Rectum","Male",39
+"5035","R02_0691_N",2,"R02","I","Rectum","Male",39
+"5037","R02_0693_N",2,"R02","I","Rectum","Male",39
+"5039","R02_0695_N",2,"R02","I","Rectum","Male",39
+"5042","R02_0698_N",2,"R02","I","Rectum","Male",39
+"5044","R02_0700_N",2,"R02","I","Rectum","Male",39
+"5053","R02_0709_N",2,"R02","I","Rectum","Male",39
+"5054","R02_0710_N",2,"R02","I","Rectum","Male",39
+"5055","R02_0711_N",2,"R02","I","Rectum","Male",39
+"5056","R02_0712_N",2,"R02","I","Rectum","Male",39
+"5060","R02_0716_N",2,"R02","I","Rectum","Male",39
+"5061","R02_0717_N",2,"R02","I","Rectum","Male",39
+"5062","R02_0718_N",2,"R02","I","Rectum","Male",39
+"5066","R02_0722_N",2,"R02","I","Rectum","Male",39
+"5070","R02_0726_N",2,"R02","I","Rectum","Male",39
+"5071","R02_0727_N",2,"R02","I","Rectum","Male",39
+"5072","R02_0728_N",2,"R02","I","Rectum","Male",39
+"5079","R02_0735_N",2,"R02","I","Rectum","Male",39
+"5083","R02_0739_N",2,"R02","I","Rectum","Male",39
+"5085","R02_0741_N",2,"R02","I","Rectum","Male",39
+"5094","R02_0750_N",2,"R02","I","Rectum","Male",39
+"5102","R02_0758_N",2,"R02","I","Rectum","Male",39
+"5106","R02_0762_N",2,"R02","I","Rectum","Male",39
+"5110","R02_0766_N",2,"R02","I","Rectum","Male",39
+"5111","R02_0767_N",2,"R02","I","Rectum","Male",39
+"5114","R02_0770_N",2,"R02","I","Rectum","Male",39
+"5117","R02_0773_N",2,"R02","I","Rectum","Male",39
+"5118","R02_0774_N",2,"R02","I","Rectum","Male",39
+"5121","R02_0777_N",2,"R02","I","Rectum","Male",39
+"5123","R02_0779_N",2,"R02","I","Rectum","Male",39
+"5125","R02_0781_N",2,"R02","I","Rectum","Male",39
+"5135","R02_0792_N",2,"R02","I","Rectum","Male",39
+"5136","R02_0793_N",2,"R02","I","Rectum","Male",39
+"5139","R02_0796_N",2,"R02","I","Rectum","Male",39
+"5149","R02_0806_N",2,"R02","I","Rectum","Male",39
+"5152","R02_0809_N",2,"R02","I","Rectum","Male",39
+"5153","R02_0810_N",2,"R02","I","Rectum","Male",39
+"5155","R02_0812_N",2,"R02","I","Rectum","Male",39
+"5160","R02_0817_N",2,"R02","I","Rectum","Male",39
+"5183","R02_0840_N",2,"R02","I","Rectum","Male",39
+"5186","R02_0843_N",2,"R02","I","Rectum","Male",39
+"5187","R02_0844_N",2,"R02","I","Rectum","Male",39
+"5190","R02_0847_N",2,"R02","I","Rectum","Male",39
+"5192","R02_0849_N",2,"R02","I","Rectum","Male",39
+"5194","R02_0851_N",2,"R02","I","Rectum","Male",39
+"5197","R02_0854_N",2,"R02","I","Rectum","Male",39
+"5204","R02_0861_N",2,"R02","I","Rectum","Male",39
+"5213","R02_0870_P1",2,"R02","I","Rectum","Male",39
+"5214","R02_0871_P1",2,"R02","I","Rectum","Male",39
+"5215","R02_0872_P1",2,"R02","I","Rectum","Male",39
+"5218","R02_0875_P1",2,"R02","I","Rectum","Male",39
+"5221","R02_0878_P1",2,"R02","I","Rectum","Male",39
+"5222","R02_0879_P1",2,"R02","I","Rectum","Male",39
+"5228","R02_0885_P1",2,"R02","I","Rectum","Male",39
+"5230","R02_0887_P1",2,"R02","I","Rectum","Male",39
+"5234","R02_0891_P1",2,"R02","I","Rectum","Male",39
+"5243","R02_0901_P1",2,"R02","I","Rectum","Male",39
+"5245","R02_0903_P1",2,"R02","I","Rectum","Male",39
+"5246","R02_0904_P1",2,"R02","I","Rectum","Male",39
+"5250","R02_0908_P1",2,"R02","I","Rectum","Male",39
+"5251","R02_0909_P1",2,"R02","I","Rectum","Male",39
+"5253","R02_0911_P1",2,"R02","I","Rectum","Male",39
+"5261","R02_0919_P1",2,"R02","I","Rectum","Male",39
+"5262","R02_0920_P1",2,"R02","I","Rectum","Male",39
+"5265","R02_0923_P1",2,"R02","I","Rectum","Male",39
+"5268","R02_0926_P1",2,"R02","I","Rectum","Male",39
+"5273","R02_0931_P1",2,"R02","I","Rectum","Male",39
+"5275","R02_0933_P1",2,"R02","I","Rectum","Male",39
+"5277","R02_0935_P1",2,"R02","I","Rectum","Male",39
+"5282","R02_0940_P1",2,"R02","I","Rectum","Male",39
+"5283","R02_0941_P1",2,"R02","I","Rectum","Male",39
+"5285","R02_0943_P1",2,"R02","I","Rectum","Male",39
+"5290","R02_0949_P1",2,"R02","I","Rectum","Male",39
+"5291","R02_0950_P1",2,"R02","I","Rectum","Male",39
+"5293","R02_0952_P1",2,"R02","I","Rectum","Male",39
+"5295","R02_0954_P1",2,"R02","I","Rectum","Male",39
+"5298","R02_0957_P1",2,"R02","I","Rectum","Male",39
+"5309","R02_0968_P1",2,"R02","I","Rectum","Male",39
+"5311","R02_0970_P1",2,"R02","I","Rectum","Male",39
+"5315","R02_0974_P1",2,"R02","I","Rectum","Male",39
+"5317","R02_0976_P1",2,"R02","I","Rectum","Male",39
+"5323","R02_0982_P1",2,"R02","I","Rectum","Male",39
+"5328","R02_0987_P1",2,"R02","I","Rectum","Male",39
+"5331","R02_0990_P1",2,"R02","I","Rectum","Male",39
+"5332","R02_0991_P1",2,"R02","I","Rectum","Male",39
+"5343","R02_1002_P1",2,"R02","I","Rectum","Male",39
