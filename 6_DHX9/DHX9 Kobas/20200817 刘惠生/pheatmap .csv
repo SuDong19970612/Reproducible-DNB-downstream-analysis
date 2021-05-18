@@ -1,0 +1,26 @@
+,RNA Polymerase II Transcription Termination,Antiviral mechanism by IFN-stimulated genes,Interferon Signaling,Cell Cycle,Immune System,Cytokine Signaling in Immune system,Signaling by FGFR in disease,Regulation of HSF1-mediated heat shock response,Transcriptional Regulation by TP53,DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,Regulation of TP53 Activity,IRF3-mediated induction of type I IFN,ESR-mediated signaling,Regulation of TP53 Activity through Acetylation,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+ADAR,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+ALYREF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CHD4,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+CPSF6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+DDX3X,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+DHX9,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+EIF4A3,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+EIF4E,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+PCF11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+POLR2G,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+PRKDC,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+PRPF40A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RANBP2,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0
+SMARCA5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SMC3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+SMN1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SNRPB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SNRPB2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+SNW1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+SRSF10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+STRAP,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+THOC2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TPR,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+U2AF1L4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UBE2I,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

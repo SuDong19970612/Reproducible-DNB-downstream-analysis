@@ -1,0 +1,26 @@
+exp<-read.csv("B_P_stage_dump.csv",row.names = 1)
+adjacent<-read.csv("DNB_top50_genes_edge_list.csv")
+index<-which(row.names(exp)%in%adjacent$target)
+exp_adjacent<-as.matrix(exp[index,])
+View(exp_adjacent)
+write.csv(exp_adjacent,"exp_adjacent.csv")
+#软聚类
+set.seed(2021)
+library(Mfuzz)
+exp_adjacent<-read.csv("exp_adjacent.csv",row.names = 1)
+#exp_adjacent<-log2(exp_adjacent+1)
+exp_adjacent<-as.matrix(log2(exp_adjacent+1))
+eset<-new("ExpressionSet",exprs=exp_adjacent)
+gene.r <- filter.NA(eset, thres=0.25)
+gene.f <- fill.NA(gene.r,mode="mean")
+tmp <- filter.std(gene.f,min.std=0)
+eset <- standardise(eset)
+m <- mestimate(eset)
+cl <- mfuzz(eset, c = 6, m = m)
+write.table(cl$cluster,"output.txt",quote=F,row.names=T,col.names=F,sep="\t")
+mfuzz.plot(eset,cl,mfrow=c(2,3),new.window= FALSE)
+c3<-cl$cluster[cl$cluster == 3]
+c4<-cl$cluster[cl$cluster == 4]
+
+write.csv(c3,"c3.csv")
+write.csv(c4,"c4.csv")

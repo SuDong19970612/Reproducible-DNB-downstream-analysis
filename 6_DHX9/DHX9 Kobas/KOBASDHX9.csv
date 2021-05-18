@@ -1,0 +1,167 @@
+﻿Term,Input number,Corrected P-Value,Input
+Processing of Capped Intron-Containing Pre-mRNA,25,1.84E-44,RBM5|SF3B1|SNRPB|SRSF10|SNRPC|CCAR1|PRPF40A|PCF11|RBM17|TRA2B|RANBP2|DHX9|LSM7|ALYREF|LSM3|U2AF1L4|SNRPB2|SNRPN|TPR|EIF4E|THOC2|CWC15|SNW1|POLR2G|EIF4A3
+Metabolism of RNA,29,1.94E-42,RBM5|SMN1|SF3B1|SNRPB|SRSF10|SNRPC|CCAR1|WDR43|ADAR|PRPF40A|PCF11|RBM17|TRMT10C|TRA2B|RANBP2|DHX9|LSM7|ALYREF|LSM3|U2AF1L4|SNW1|SNRPN|TPR|EIF4E|THOC2|CWC15|SNRPB2|POLR2G|EIF4A3
+mRNA Splicing - Major Pathway,21,6.22E-38,DHX9|RBM5|SNW1|LSM7|SF3B1|ALYREF|PRPF40A|CWC15|PCF11|EIF4A3|U2AF1L4|SNRPB2|RBM17|SRSF10|SNRPC|SNRPB|CCAR1|LSM3|SNRPN|POLR2G|TRA2B
+mRNA Splicing,21,1.09E-37,DHX9|RBM5|SNW1|LSM7|SF3B1|ALYREF|PRPF40A|CWC15|PCF11|EIF4A3|U2AF1L4|SNRPB2|RBM17|SRSF10|SNRPC|SNRPB|CCAR1|LSM3|SNRPN|POLR2G|TRA2B
+Spliceosome,17,4.95E-31,RBM25|SNW1|LSM7|SF3B1|ALYREF|PRPF40A|LSM3|EIF4A3|U2AF1L4|SNRPB2|RBM17|SRSF10|THOC2|SNRPB|SNRPC|CWC15|TRA2B
+Transport of Mature Transcript to Cytoplasm,7,3.67E-11,ALYREF|U2AF1L4|TPR|EIF4E|THOC2|EIF4A3|RANBP2
+RNA transport,8,5.37E-11,UBE2I|SMN1|ALYREF|TPR|EIF4E|THOC2|EIF4A3|RANBP2
+Gene expression (Transcription),14,1.66E-10,UBE2I|POLR2G|SNW1|CHD4|ALYREF|STRAP|PCF11|U2AF1L4|TPR|SNRPB|THOC2|SMARCA5|EIF4A3|RANBP2
+RNA Polymerase II Transcription Termination,6,9.56E-10,ALYREF|PCF11|U2AF1L4|SNRPB|THOC2|EIF4A3
+Transport of Mature mRNA derived from an Intron-Containing Transcript,6,1.29E-09,ALYREF|U2AF1L4|TPR|THOC2|EIF4A3|RANBP2
+mRNA 3'-end processing,5,4.58E-08,PCF11|THOC2|U2AF1L4|ALYREF|EIF4A3
+RNA Polymerase II Transcription,11,1.38E-07,UBE2I|POLR2G|SNW1|CHD4|ALYREF|STRAP|PCF11|U2AF1L4|SNRPB|THOC2|EIF4A3
+Transport of the SLBP independent Mature mRNA,4,4.03E-07,EIF4E|ALYREF|TPR|RANBP2
+Transport of the SLBP Dependant Mature mRNA,4,4.21E-07,EIF4E|ALYREF|TPR|RANBP2
+Transport of Mature mRNA Derived from an Intronless Transcript,4,7.44E-07,EIF4E|ALYREF|TPR|RANBP2
+Transport of Mature mRNAs Derived from Intronless Transcripts,4,7.68E-07,EIF4E|ALYREF|TPR|RANBP2
+SUMOylation of RNA binding proteins,4,1.04E-06,UBE2I|SNRPC|TPR|RANBP2
+snRNP Assembly,4,1.65E-06,SNRPB|SMN1|TPR|RANBP2
+Metabolism of non-coding RNA,4,1.65E-06,SNRPB|SMN1|TPR|RANBP2
+Deadenylation-dependent mRNA decay,4,2.25E-06,EIF4E|LSM7|EIF4A3|LSM3
+SUMO E3 ligases SUMOylate target proteins,5,4.12E-06,UBE2I|SNRPC|SMC3|TPR|RANBP2
+SUMOylation,5,4.63E-06,UBE2I|SNRPC|SMC3|TPR|RANBP2
+ISG15 antiviral mechanism,4,4.63E-06,EIF4E|TPR|EIF4A3|RANBP2
+SUMOylation of DNA damage response and repair proteins,4,4.95E-06,UBE2I|SMC3|TPR|RANBP2
+Antiviral mechanism by IFN-stimulated genes,4,6.28E-06,EIF4E|TPR|EIF4A3|RANBP2
+Interferon Signaling,5,6.28E-06,EIF4E|ADAR|TPR|EIF4A3|RANBP2
+mRNA surveillance pathway,4,1.14E-05,PCF11|CPSF6|ALYREF|EIF4A3
+SUMOylation of SUMOylation proteins,3,2.87E-05,UBE2I|TPR|RANBP2
+SUMOylation of ubiquitinylation proteins,3,3.60E-05,UBE2I|TPR|RANBP2
+Viral Messenger RNA Synthesis,3,5.50E-05,POLR2G|TPR|RANBP2
+SUMOylation of DNA replication proteins,3,6.12E-05,UBE2I|TPR|RANBP2
+mRNA Splicing - Minor Pathway,3,0.000108949,SNRPB|POLR2G|SF3B1
+SUMOylation of chromatin organization proteins,3,0.000209346,UBE2I|TPR|RANBP2
+mRNA decay by 5' to 3' exoribonuclease,2,0.000692165,LSM7|LSM3
+tRNA processing,3,0.000692165,TPR|TRMT10C|RANBP2
+Transcriptional regulation by small RNAs,3,0.000692165,POLR2G|TPR|RANBP2
+Cell Cycle,5,0.001140485,UBE2I|SMC3|RANBP2|SMARCA5|TPR
+@@Cell cycle,2,0.014418801,SMC3|PRKDC
+DNA Repair,4,0.001140485,UBE2I|POLR2G|SMARCA5|PRKDC
+Influenza Viral RNA Transcription and Replication,3,0.001278416,POLR2G|TPR|RANBP2
+Gene Silencing by RNA,3,0.001302087,POLR2G|TPR|RANBP2
+Late Phase of HIV Life Cycle,3,0.001354651,POLR2G|TPR|RANBP2
+Deadenylation of mRNA,2,0.001371214,EIF4E|EIF4A3
+Influenza Life Cycle,3,0.001433196,POLR2G|TPR|RANBP2
+Immune System,8,0.00150837,DHX9|DDX3X|ADAR|PRKDC|TPR|EIF4E|EIF4A3|RANBP2
+HIV Life Cycle,3,0.00150837,POLR2G|TPR|RANBP2
+Influenza Infection,3,0.00150837,POLR2G|TPR|RANBP2
+Regulation of Glucokinase by Glucokinase Regulatory Protein,2,0.00150837,TPR|RANBP2
+NEP/NS2 Interacts with the Cellular Export Machinery,2,0.00150837,TPR|RANBP2
+Processing of Capped Intronless Pre-mRNA,2,0.00150837,SNRPB|PCF11
+Defective TPR may confer susceptibility towards thyroid papillary carcinoma (TPC),2,0.00150837,TPR|RANBP2
+Transport of Ribonucleoproteins into the Host Nucleus,2,0.00150837,TPR|RANBP2
+Vpr-mediated nuclear import of PICs,2,0.00162269,TPR|RANBP2
+Export of Viral Ribonucleoproteins from Nucleus,2,0.00162269,TPR|RANBP2
+Nuclear import of Rev protein,2,0.00162269,TPR|RANBP2
+Rev-mediated nuclear export of HIV RNA,2,0.001695112,TPR|RANBP2
+DNA Double-Strand Break Repair,3,0.001736979,UBE2I|SMARCA5|PRKDC
+Nuclear Pore Complex (NPC) Disassembly,2,0.001736979,TPR|RANBP2
+Interactions of Rev with host cellular proteins,2,0.001778898,TPR|RANBP2
+Interactions of Vpr with host cellular proteins,2,0.001778898,TPR|RANBP2
+NS1 Mediated Effects on Host Pathways,2,0.002174058,TPR|RANBP2
+Host Interactions with Influenza Factors,2,0.002363999,TPR|RANBP2
+Cytokine Signaling in Immune system,5,0.002527137,EIF4E|ADAR|TPR|EIF4A3|RANBP2
+Viral carcinogenesis,3,0.002706576,SNW1|DDX3X|CHD4
+Nuclear Envelope Breakdown,2,0.003088514,TPR|RANBP2
+HIV Infection,3,0.003711843,POLR2G|TPR|RANBP2
+Post-translational protein modification,6,0.003847203,UBE2I|SMC3|PRKDC|TPR|SNRPC|RANBP2
+tRNA processing in the nucleus,2,0.004011473,TPR|RANBP2
+Metabolism of proteins,7,0.004321137,UBE2I|SMC3|PRKDC|TPR|EIF4E|SNRPC|RANBP2
+Signaling by FGFR in disease,2,0.004321137,CPSF6|POLR2G
+@@Signaling by FGFR,1,0.080557408,POLR2G
+Cytosolic sensors of pathogen-associated DNA ,2,0.005005974,DHX9|PRKDC
+Regulation of HSF1-mediated heat shock response,2,0.005488285,TPR|RANBP2
+Glycolysis,2,0.005488285,TPR|RANBP2
+Disease,5,0.005867059,CPSF6|POLR2G|SNW1|TPR|RANBP2
+RNA polymerase II transcribes snRNA genes,2,0.006653771,PCF11|POLR2G
+Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks,2,0.006902328,UBE2I|SMARCA5
+DNA Double Strand Break Response,2,0.006902328,UBE2I|SMARCA5
+Meiotic synapsis,2,0.006902328,UBE2I|SMC3
+RNA degradation,2,0.007158219,LSM7|LSM3
+Glucose metabolism,2,0.00813571,TPR|RANBP2
+Cellular response to heat stress,2,0.008216689,TPR|RANBP2
+Generic Transcription Pathway,5,0.00922554,UBE2I|POLR2G|SNW1|CHD4|STRAP
+SLC transporter disorders,2,0.009903081,TPR|RANBP2
+Transcriptional Regulation by TP53,3,0.010583589,POLR2G|CHD4|STRAP
+Positive epigenetic regulation of rRNA expression,2,0.011273122,SMARCA5|CHD4
+Infectious disease,3,0.011409283,POLR2G|TPR|RANBP2
+Diseases of signal transduction,3,0.011445812,CPSF6|POLR2G|SNW1
+M Phase,3,0.012173617,SMC3|TPR|RANBP2
+Nucleotide Excision Repair,2,0.012192828,UBE2I|POLR2G
+Meiosis,2,0.013118087,UBE2I|SMC3
+Resolution of Sister Chromatid Cohesion,2,0.014353116,SMC3|RANBP2
+Host Interactions of HIV factors,2,0.014353116,TPR|RANBP2
+tRNA processing in the mitochondrion,1,0.01480055,TRMT10C
+Mitotic Prophase,2,0.016367675,TPR|RANBP2
+Reproduction,2,0.017848743,UBE2I|SMC3
+Epigenetic regulation of gene expression,2,0.018712625,SMARCA5|CHD4
+"SUMO is transferred from E1 to E2 (UBE2I, UBC9)",1,0.018712625,UBE2I
+DEx/H-box helicases activate type I IFN and inflammatory cytokines production ,1,0.018712625,DHX9
+Estrogen-dependent gene expression,2,0.019027684,SMC3|POLR2G
+tRNA modification in the mitochondrion,1,0.020622625,TRMT10C
+Regulation of TP53 Activity,2,0.021105032,CHD4|STRAP
+Disorders of transmembrane transporters,2,0.023320171,TPR|RANBP2
+"Cell Cycle, Mitotic",3,0.023320171,SMC3|TPR|RANBP2
+Processing and activation of SUMO,1,0.023320171,UBE2I
+rRNA processing in the mitochondrion,1,0.023320171,TRMT10C
+Cohesin Loading onto Chromatin,1,0.023320171,SMC3
+Negative regulation of activity of TFAP2 (AP-2) family transcription factors,1,0.023320171,UBE2I
+SLBP independent Processing of Histone Pre-mRNAs,1,0.023320171,SNRPB
+Establishment of Sister Chromatid Cohesion,1,0.024305038,SMC3
+SUMOylation of immune response proteins,1,0.024305038,UBE2I
+mRNA Editing,1,0.024305038,ADAR
+SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs,1,0.024305038,SNRPB
+Vitamin D (calciferol) metabolism,1,0.024305038,UBE2I
+Separation of Sister Chromatids,2,0.025173586,SMC3|RANBP2
+Mitotic Anaphase,2,0.026905189,SMC3|RANBP2
+Mitotic Metaphase and Anaphase,2,0.026905189,SMC3|RANBP2
+Mitotic Prometaphase,2,0.026905189,SMC3|RANBP2
+Non-homologous end-joining,1,0.026905189,PRKDC
+IRF3-mediated induction of type I IFN,1,0.026905189,PRKDC
+rRNA processing,2,0.028107174,WDR43|TRMT10C
+Mitotic Telophase/Cytokinesis,1,0.028107174,SMC3
+RUNX3 regulates NOTCH signaling,1,0.028107174,SNW1
+Signaling by cytosolic FGFR1 fusion mutants,1,0.029725653,CPSF6
+SUMOylation of DNA methylation proteins,1,0.030819509,UBE2I
+Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells,1,0.030819509,SNW1
+STING mediated induction of host immune responses,1,0.030819509,PRKDC
+ESR-mediated signaling,2,0.031264728,SMC3|POLR2G
+RIP-mediated NFkB activation via ZBP1,1,0.031861115,DHX9
+SUMOylation of transcription factors,1,0.031861115,UBE2I
+Regulation of TP53 Activity through Methylation,1,0.034569727,STRAP
+Signaling by FGFR2 IIIa TM,1,0.034569727,POLR2G
+Processing of Intronless Pre-mRNAs,1,0.034569727,PCF11
+NOTCH4 Intracellular Domain Regulates Transcription,1,0.036011269,SNW1
+ZBP1(DAI) mediated induction of type I IFNs,1,0.037429978,DHX9
+mTORC1-mediated signalling,1,0.03882636,EIF4E
+Abortive elongation of HIV-1 transcript in the absence of Tat,1,0.040200911,POLR2G
+Signaling by Nuclear Receptors,2,0.040375269,SMC3|POLR2G
+Signal Transduction,6,0.040375269,SNW1|CHD4|SMC3|POLR2G|EIF4E|RANBP2
+MicroRNA (miRNA) biogenesis,1,0.040375269,POLR2G
+NOTCH3 Intracellular Domain Regulates Transcription,1,0.040375269,SNW1
+SUMOylation of intracellular receptors,1,0.040375269,UBE2I
+FGFR1 mutant receptor activation,1,0.041678351,CPSF6
+FGFR2 alternative splicing,1,0.042961977,POLR2G
+RNA Pol II CTD phosphorylation and interaction with CE,1,0.043921543,POLR2G
+RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,1,0.043921543,POLR2G
+Metabolism of carbohydrates,2,0.04451835,TPR|RANBP2
+Notch-HLH transcription pathway,1,0.044853803,SNW1
+PIWI-interacting RNA (piRNA) biogenesis,1,0.045759857,POLR2G
+mRNA Capping,1,0.045759857,POLR2G
+Regulation of TP53 Activity through Acetylation,1,0.046640749,CHD4
+FGFR2 mutant receptor activation,1,0.046640749,POLR2G
+RNA polymerase,1,0.047809947,POLR2G
+Signaling by FGFR1 in disease,1,0.048644778,CPSF6
+SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription,1,0.048644778,SNW1
+Formation of the Early Elongation Complex,1,0.04945708,POLR2G
+Formation of the HIV-1 Early Elongation Complex,1,0.04945708,POLR2G
+Pausing and recovery of Tat-mediated HIV elongation,1,0.050247711,POLR2G
+Tat-mediated HIV elongation arrest and recovery,1,0.050247711,POLR2G
+HIV elongation arrest and recovery,1,0.052414261,POLR2G
+Pausing and recovery of HIV elongation,1,0.052414261,POLR2G
+Thyroid cancer,1,0.053475724,TPR
+Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors,1,0.054188509,UBE2I
+Regulation of beta-cell development,1,0.054188509,SNW1
+mTOR signalling,1,0.054882959,EIF4E
+Signaling by FGFR2 in disease,1,0.054882959,POLR2G

@@ -1,0 +1,598 @@
+"","year","gender","race","TNM","Survival","days","FPKM","exp","survivallog","suryears"
+"TCGA-A6-5659-01A","82 years"," male"," white"," stage:i"," alive",926,81.4,"high",1,2.53698630136986
+"TCGA-CM-6171-01A","77 years"," female"," white"," stage:i"," alive",427,67.8,"high",1,1.16986301369863
+"TCGA-CI-6620-01A","41 years"," female"," white"," stage:iva"," alive",1009,66.3,"high",1,2.76438356164384
+"TCGA-A6-6650-01A","69 years"," female"," black or african american"," stage:iia"," alive",627,66,"high",1,1.71780821917808
+"TCGA-A6-6648-01A","56 years"," male"," white"," stage:iva"," alive",766,65.8,"high",1,2.0986301369863
+"TCGA-AY-A69D-01A","55 years"," female"," black or african american"," stage:iia"," alive",543,62.6,"high",1,1.48767123287671
+"TCGA-CK-4952-01A","48 years"," female"," white"," stage:iiic"," alive",475,62.2,"high",1,1.3013698630137
+"TCGA-AG-3599-01A","70 years"," male",""," stage:i"," alive",366,62,"high",1,1.0027397260274
+"TCGA-F5-6814-01A","57 years"," male"," white"," stage:iia"," alive",1131,60.9,"high",1,3.0986301369863
+"TCGA-AG-A036-01A","71 years"," male",""," stage:iii"," alive",3562,60.6,"high",1,9.75890410958904
+"TCGA-NH-A50T-01A","68 years"," female"," black or african american"," stage:iia"," alive",553,60.3,"high",1,1.51506849315069
+"TCGA-DC-6160-01A","68 years"," male"," white"," stage:i"," alive",1339,59,"high",1,3.66849315068493
+"TCGA-CI-6621-01A","63 years"," male"," white"," stage:iiib"," alive",419,58.8,"high",1,1.14794520547945
+"TCGA-D5-6922-01A","76 years"," male"," white"," stage:iiia"," alive",308,58.8,"high",1,0.843835616438356
+"TCGA-EI-6882-01A","59 years"," male"," white"," stage:iia"," alive",262,58.8,"high",1,0.717808219178082
+"TCGA-EI-6508-01A","48 years"," female"," white"," stage:iiib"," alive",636,58.5,"high",1,1.74246575342466
+"TCGA-AH-6644-01A","73 years"," male"," white",""," alive",838,57.5,"high",1,2.2958904109589
+"TCGA-DC-6682-01A","57 years"," male"," white"," stage:iia"," alive",762,57.4,"high",1,2.08767123287671
+"TCGA-G4-6628-01A","78 years"," male"," white"," stage:i"," alive",2424,57.4,"high",1,6.64109589041096
+"TCGA-AA-A010-01A","46 years"," female",""," stage:iib"," alive",1064,56.7,"high",1,2.91506849315068
+"TCGA-AG-3578-01A","76 years"," female"," "," stage:iia"," alive",974,56.5,"high",1,2.66849315068493
+"TCGA-EI-6917-01A","33 years"," male"," white"," stage:iiia"," alive",531,56.4,"high",1,1.45479452054795
+"TCGA-AH-6549-01A","66 years"," male"," white",""," alive",532,55.8,"high",1,1.45753424657534
+"TCGA-CM-6677-01A","75 years"," female"," white"," stage:iia"," alive",337,55.4,"high",1,0.923287671232877
+"TCGA-AA-3555-01A","81 years"," female"," stage:iia",""," alive",911,55.2,"high",1,2.4958904109589
+"TCGA-DM-A0X9-01A","71 years"," female"," white"," stage:iia"," alive",3641,54.7,"high",1,9.97534246575342
+"TCGA-DM-A28H-01A","50 years"," male"," white"," stage:iiic"," alive",3561,54.5,"high",1,9.75616438356164
+"TCGA-D5-6926-01A","65 years"," male"," white"," stage:iiib"," alive",275,54.5,"high",1,0.753424657534247
+"TCGA-G4-6299-01A","69 years"," male"," white"," stage:iiic"," alive",2268,54.5,"high",1,6.21369863013699
+"TCGA-QG-A5YV-01A","64 years"," female"," black or african american"," stage:iiic"," alive",1301,54.5,"high",1,3.56438356164384
+"TCGA-A6-5667-01A","40 years"," female"," white"," stage:iiib"," alive",887,54.4,"high",1,2.43013698630137
+"TCGA-AG-3600-01A","62 years"," male",""," stage:iiic"," alive",184,53.8,"high",1,0.504109589041096
+"TCGA-AA-3866-01A","78 years"," female",""," stage:i"," alive",518,53.7,"high",1,1.41917808219178
+"TCGA-A6-5661-01A","80 years"," female"," black or african american"," stage:iia"," alive",1020,53.7,"high",1,2.79452054794521
+"TCGA-AA-3664-01A","74 years"," female",""," stage:ii"," alive",1643,53,"high",1,4.5013698630137
+"TCGA-D5-6898-01A","51 years"," female"," white"," stage:i"," alive",229,52.9,"high",1,0.627397260273973
+"TCGA-AA-A02F-01A","68 years"," female",""," stage:iv"," alive",1216,52.9,"high",1,3.33150684931507
+"TCGA-EI-6513-01A","59 years"," male"," white"," stage:iiib"," alive",497,52.8,"high",1,1.36164383561644
+"TCGA-D5-6931-01A","77 years"," male"," white"," stage:iiic"," alive",365,52.6,"high",1,1
+"TCGA-AG-A01N-01A","68 years"," female",""," stage:iv"," alive",943,52.6,"high",1,2.58356164383562
+"TCGA-D5-6923-01A","57 years"," male"," white"," stage:i"," alive",378,52.4,"high",1,1.03561643835616
+"TCGA-CK-5913-01A","58 years"," female"," white"," stage:iia"," alive",1561,52.1,"high",1,4.27671232876712
+"TCGA-CI-6623-01B","44 years"," male"," white"," stage:i"," alive",1443,52.1,"high",1,3.95342465753425
+"TCGA-EI-6885-01A","57 years"," female"," white"," stage:iv"," alive",415,51.3,"high",1,1.13698630136986
+"TCGA-AF-2692-01A","54 years"," female"," white"," stage:iia"," alive",412,51.1,"high",1,1.12876712328767
+"TCGA-CA-5797-01A","56 years"," male"," asian"," stage:iia"," alive",383,51.1,"high",1,1.04931506849315
+"TCGA-D5-5539-01A","60 years"," male"," white"," stage:iiia"," alive",596,50.9,"high",1,1.63287671232877
+"TCGA-CM-6163-01A","74 years"," male"," white"," stage:i"," alive",90,50.8,"high",1,0.246575342465753
+"TCGA-D5-5541-01A","63 years"," male"," white"," stage:iiib"," alive",1701,50.8,"high",1,4.66027397260274
+"TCGA-G4-6311-01A","80 years"," male"," white"," stage:iii"," alive",1199,50.8,"high",1,3.28493150684932
+"TCGA-AH-6897-01A","48 years"," male"," white"," stage:i"," alive",804,50.5,"high",1,2.2027397260274
+"TCGA-CK-5914-01A","81 years"," male"," white"," stage:iiib"," alive",669,50.4,"high",1,1.83287671232877
+"TCGA-AA-3560-01A","72 years"," female",""," stage:iiic"," alive",608,50.2,"high",1,1.66575342465753
+"TCGA-AD-6548-01A","81 years"," female"," white"," stage:i"," alive",650,50,"high",1,1.78082191780822
+"TCGA-AG-3593-01A","72 years"," female",""," stage:iia"," alive",1035,49.9,"high",1,2.83561643835616
+"TCGA-CM-5860-01A","44 years"," male"," white"," stage:iia"," alive",974,49.7,"high",1,2.66849315068493
+"TCGA-D5-6927-01A","34 years"," male"," white"," stage:iia"," alive",287,49.7,"high",1,0.786301369863014
+"TCGA-AG-A020-01A","57 years"," female",""," stage:iii"," alive",31,49.6,"high",1,0.0849315068493151
+"TCGA-AF-6136-01A","72 years"," female"," white"," stage:iiib"," alive",741,49.2,"high",1,2.03013698630137
+"TCGA-A6-6652-01A","59 years"," male"," black or african american"," stage:iva"," alive",751,48.8,"high",1,2.05753424657534
+"TCGA-CL-5917-01A","71 years"," female"," white"," stage:iiic"," alive",2376,48.8,"high",1,6.50958904109589
+"TCGA-AM-5820-01A","60 years"," female"," white"," stage:iva"," alive",14,48.8,"high",1,0.0383561643835616
+"TCGA-AA-A00R-01A","64 years"," female",""," stage:i"," alive",30,48.8,"high",1,0.0821917808219178
+"TCGA-AG-A008-01A","50 years"," female",""," stage:i"," alive",424,48.8,"high",1,1.16164383561644
+"TCGA-CK-4947-01B","46 years"," female"," white"," stage:iiib"," alive",534,48.7,"high",1,1.46301369863014
+"TCGA-AG-3731-01A","65 years"," male",""," stage:iv"," alive",1126,48.5,"high",1,3.08493150684932
+"TCGA-G4-6588-01A","58 years"," female"," white"," stage:iia"," alive",796,48.4,"high",1,2.18082191780822
+"TCGA-A6-6653-01A","82 years"," male"," white"," stage:i"," alive",742,48.1,"high",1,2.03287671232877
+"TCGA-G4-6309-01A","40 years"," female"," black or african american"," stage:iiib"," alive",2600,48.1,"high",1,7.12328767123288
+"TCGA-D5-6533-01A","68 years"," female",""," white"," alive",775,48.1,"high",1,2.12328767123288
+"TCGA-A6-5657-01A","65 years"," male"," black or african american"," stage:iiib"," alive",962,48,"high",1,2.63561643835616
+"TCGA-5M-AATE-01A","76 years"," male"," black or african american"," stage:iia"," alive",1200,48,"high",1,3.28767123287671
+"TCGA-EI-6512-01A","64 years"," female"," white"," stage:iiib"," alive",538,47.8,"high",1,1.47397260273973
+"TCGA-CI-6619-01B","41 years"," male"," white"," stage:iv"," alive",184,47.8,"high",1,0.504109589041096
+"TCGA-CM-6168-01A","84 years"," female"," black or african american"," stage:iia"," alive",395,47.7,"high",1,1.08219178082192
+"TCGA-A6-5666-01A","78 years"," male"," white"," stage:iic"," alive",995,47.6,"high",1,2.72602739726027
+"TCGA-A6-3809-01A","71 years"," female"," white"," stage:iib"," alive",996,47.5,"high",1,2.72876712328767
+"TCGA-AA-3947-01A","60 years"," female",""," stage:iib"," alive",1004,47.5,"high",1,2.75068493150685
+"TCGA-AA-3688-01A","80 years"," male",""," stage:iv"," alive",578,47.4,"high",1,1.58356164383562
+"TCGA-CM-6161-01A","36 years"," female"," white"," stage:i"," alive",457,47.3,"high",1,1.25205479452055
+"TCGA-AA-3509-01A","54 years"," female",""," stage:ii"," alive",1915,47,"high",1,5.24657534246575
+"TCGA-D5-7000-01A","79 years"," female"," white"," stage:i"," alive",312,46.8,"high",1,0.854794520547945
+"TCGA-AG-A002-01A","35 years"," male",""," stage:i"," alive",638,46.7,"high",1,1.74794520547945
+"TCGA-CA-6719-01A","77 years"," male"," asian"," stage:iia"," alive",435,46.6,"high",1,1.19178082191781
+"TCGA-CA-6717-01A","57 years"," male"," asian"," stage:iia"," alive",388,46.6,"high",1,1.06301369863014
+"TCGA-CA-5254-01A","42 years"," female"," asian"," stage:iia"," alive",386,46.6,"high",1,1.05753424657534
+"TCGA-AA-A00U-01A","50 years"," male",""," stage:iiib"," alive",518,46.5,"high",1,1.41917808219178
+"TCGA-AH-6544-01A","60 years"," male",""," white"," alive",1173,46.5,"high",1,3.21369863013699
+"TCGA-DC-5869-01A","62 years"," female"," black or african american"," stage:iiib"," alive",943,46.4,"high",1,2.58356164383562
+"TCGA-AA-3858-01A","67 years"," male",""," stage:i"," alive",945,46.3,"high",1,2.58904109589041
+"TCGA-AG-3612-01A","55 years"," female",""," stage:iiib"," alive",608,45.9,"high",1,1.66575342465753
+"TCGA-CK-4948-01B","45 years"," female"," white"," stage:iii"," alive",4502,45.8,"high",1,12.3342465753425
+"TCGA-AG-A02X-01A","77 years"," male",""," stage:i"," alive",1247,45.8,"high",1,3.41643835616438
+"TCGA-F4-6854-01A","77 years"," female"," white"," stage:iia"," alive",16,45.7,"high",1,0.0438356164383562
+"TCGA-AF-2687-01A","57 years"," male"," white"," stage:iiic"," alive",1427,45.7,"high",1,3.90958904109589
+"TCGA-AA-A01R-01A","47 years"," male",""," stage:iii"," alive",1065,45.7,"high",1,2.91780821917808
+"TCGA-D5-6536-01A","73 years"," male"," white"," stage:iia"," alive",543,45.6,"high",1,1.48767123287671
+"TCGA-AA-3675-01A","84 years"," male",""," stage:ii"," alive",1431,45.6,"high",1,3.92054794520548
+"TCGA-AF-6672-01A","43 years"," male"," white"," stage:iv"," alive",748,45.5,"high",1,2.04931506849315
+"TCGA-EI-7002-01A","58 years"," male"," white"," stage:iv"," alive",364,45.3,"high",1,0.997260273972603
+"TCGA-AF-2693-01A","75 years"," male"," white"," stage:i"," alive",1155,45.3,"high",1,3.16438356164384
+"TCGA-CK-6747-01A","87 years"," female"," white"," stage:iia"," alive",2523,45.2,"high",1,6.91232876712329
+"TCGA-F4-6855-01A","70 years"," female"," white"," stage:iia"," alive",1442,45.2,"high",1,3.95068493150685
+"TCGA-F4-6805-01A","58 years"," female"," white"," stage:iia"," alive",1047,45.2,"high",1,2.86849315068493
+"TCGA-SS-A7HO-01A","44 years"," female"," black or african american"," stage:iib"," alive",1829,45.1,"high",1,5.01095890410959
+"TCGA-A6-2678-01A","43 years"," female"," white"," stage:iiib"," alive",1286,45.1,"high",1,3.52328767123288
+"TCGA-AA-A01X-01A","80 years"," female",""," stage:iii"," alive",791,45.1,"high",1,2.16712328767123
+"TCGA-D5-6535-01A","80 years"," female"," white"," stage:iiib"," alive",460,45,"high",1,1.26027397260274
+"TCGA-DC-6156-01A","62 years"," male"," white"," stage:iva"," alive",943,44.9,"high",1,2.58356164383562
+"TCGA-A6-6140-01A","62 years"," male"," white"," stage:iia"," alive",734,44.7,"high",1,2.01095890410959
+"TCGA-G4-6295-01A","70 years"," female"," white"," stage:ii"," alive",254,44.7,"high",1,0.695890410958904
+"TCGA-AA-A00E-01A","65 years"," male",""," stage:iia"," alive",913,44.6,"high",1,2.5013698630137
+"TCGA-AD-6965-01A","62 years"," male"," white"," stage:iiic"," alive",805,44.5,"high",1,2.20547945205479
+"TCGA-AA-3713-01A","68 years"," male",""," stage:iv"," alive",579,44.5,"high",1,1.58630136986301
+"TCGA-AA-3538-01A","54 years"," female",""," stage:i"," alive",791,44.4,"high",1,2.16712328767123
+"TCGA-AA-A01G-01A","63 years"," male",""," stage:iia"," alive",365,44,"high",1,1
+"TCGA-A6-5660-01A","73 years"," male"," black or african american"," stage:iiic"," alive",888,43.9,"high",1,2.43287671232877
+"TCGA-G4-6297-01A","55 years"," female"," white"," stage:iv"," alive",2506,43.9,"high",1,6.86575342465753
+"TCGA-F4-6807-01A","51 years"," female"," white"," stage:iiic"," alive",1309,43.9,"high",1,3.58630136986301
+"TCGA-AA-A00Z-01A","70 years"," male",""," stage:iia"," alive",669,43.9,"high",1,1.83287671232877
+"TCGA-CM-6170-01A","73 years"," female"," white"," stage:i"," alive",457,43.8,"high",1,1.25205479452055
+"TCGA-CA-6716-01A","65 years"," male"," asian"," stage:iia"," alive",371,43.6,"high",1,1.01643835616438
+"TCGA-AY-6197-01A","60 years"," male"," white"," stage:iia"," alive",652,43.5,"high",1,1.78630136986301
+"TCGA-DC-4749-01A","57 years"," male"," white"," stage:i"," alive",762,43.3,"high",1,2.08767123287671
+"TCGA-AA-3673-01A","53 years"," female",""," stage:ii"," alive",1522,43.3,"high",1,4.16986301369863
+"TCGA-AG-3898-01A","61 years"," male",""," stage:iia"," alive",1461,43.3,"high",1,4.0027397260274
+"TCGA-EI-6507-01A","60 years"," male"," white"," stage:iia"," alive",607,43.2,"high",1,1.66301369863014
+"TCGA-CM-6169-01A","67 years"," male"," black or african american"," stage:iia"," alive",396,43.2,"high",1,1.08493150684932
+"TCGA-QG-A5YX-01A","61 years"," female"," black or african american"," stage:iia"," alive",1003,43.2,"high",1,2.74794520547945
+"TCGA-AA-3660-01A","51 years"," female",""," stage:ii"," alive",2375,43.2,"high",1,6.50684931506849
+"TCGA-AU-6004-01A","69 years"," female"," white"," stage:i"," alive",824,43.1,"high",1,2.25753424657534
+"TCGA-D5-6924-01A","68 years"," male"," white"," stage:iia"," alive",435,43.1,"high",1,1.19178082191781
+"TCGA-CM-6675-01A","35 years"," male"," black or african american"," stage:ivb"," alive",397,43.1,"high",1,1.08767123287671
+"TCGA-AG-A00Y-01A","68 years"," male",""," stage:iia"," alive",700,43.1,"high",1,1.91780821917808
+"TCGA-AF-A56L-01A","48 years"," female"," black or african american"," stage:iiic"," alive",2007,43,"high",1,5.4986301369863
+"TCGA-AG-3580-01A","67 years"," male",""," stage:i"," alive",244,43,"high",1,0.668493150684932
+"TCGA-AA-3534-01A","78 years"," female",""," stage:iia"," alive",882,43,"high",1,2.41643835616438
+"TCGA-DC-6157-01A","48 years"," male"," black or african american"," stage:i"," alive",1581,42.9,"high",1,4.33150684931507
+"TCGA-A6-6649-01A","66 years"," male"," white"," stage:iiib"," alive",735,42.8,"high",1,2.01369863013699
+"TCGA-AA-3678-01A","60 years"," female",""," stage:iii"," alive",1430,42.7,"high",1,3.91780821917808
+"TCGA-D5-6532-01A","61 years"," male"," white"," stage:iia"," alive",555,42.6,"high",1,1.52054794520548
+"TCGA-CM-6165-01A","74 years"," male"," white"," stage:iia"," alive",488,42.6,"high",1,1.33698630136986
+"TCGA-F4-6856-01A","45 years"," male"," white"," stage:i"," alive",1074,42.6,"high",1,2.94246575342466
+"TCGA-QG-A5YW-01A","55 years"," female"," black or african american"," stage:iiic"," alive",896,42.5,"high",1,2.45479452054795
+"TCGA-CM-6166-01A","48 years"," female"," white"," stage:i"," alive",669,42.5,"high",1,1.83287671232877
+"TCGA-QL-A97D-01A","84 years"," female"," black or african american"," stage:i"," alive",666,42.5,"high",1,1.82465753424658
+"TCGA-EI-6881-01A","60 years"," male"," white"," stage:iiia"," alive",499,42.5,"high",1,1.36712328767123
+"TCGA-AA-A00J-01A","80 years"," male",""," stage:iiib"," alive",549,42.5,"high",1,1.5041095890411
+"TCGA-AA-3517-01A","60 years"," male",""," stage:iia"," alive",1186,42.5,"high",1,3.24931506849315
+"TCGA-CM-6172-01A","70 years"," female"," white"," stage:iiib"," alive",335,42.4,"high",1,0.917808219178082
+"TCGA-AG-A015-01A","64 years"," female",""," stage:i"," alive",1096,42.4,"high",1,3.0027397260274
+"TCGA-AA-A01S-01A","47 years"," female",""," stage:iii"," alive",31,42.4,"high",1,0.0849315068493151
+"TCGA-AA-A02W-01A","73 years"," female",""," stage:i"," alive",1247,42.4,"high",1,3.41643835616438
+"TCGA-AF-6655-01A","66 years"," male"," white"," stage:iiia"," alive",609,42.2,"high",1,1.66849315068493
+"TCGA-EI-6884-01A","71 years"," male"," white"," stage:iiia"," alive",328,42.2,"high",1,0.898630136986301
+"TCGA-AG-3592-01A","68 years"," male",""," stage:iia"," alive",1035,42.2,"high",1,2.83561643835616
+"TCGA-AA-3842-01A","51 years"," male",""," stage:iiia"," alive",1126,42.2,"high",1,3.08493150684932
+"TCGA-AD-5900-01A","67 years"," male"," white"," stage:i"," alive",370,41.9,"high",1,1.01369863013699
+"TCGA-CM-6162-01A","48 years"," female"," white"," stage:iiib"," alive",365,41.8,"high",1,1
+"TCGA-AD-6963-01A","58 years"," male"," white",""," alive",834,41.8,"high",1,2.28493150684932
+"TCGA-AA-A00D-01A","70 years"," male",""," stage:i"," alive",578,41.7,"high",1,1.58356164383562
+"TCGA-AA-3710-01A","80 years"," female",""," stage:iia"," alive",821,41.7,"high",1,2.24931506849315
+"TCGA-A6-6780-01A","74 years"," male"," white"," stage:iia"," alive",612,41.6,"high",1,1.67671232876712
+"TCGA-CM-6167-01A","57 years"," female"," black or african american"," stage:iiic"," alive",456,41.6,"high",1,1.24931506849315
+"TCGA-EI-6506-01A","78 years"," female"," white"," stage:iia"," alive",625,41.5,"high",1,1.71232876712329
+"TCGA-G4-6315-01A","66 years"," male"," white"," stage:iv"," alive",1883,41.5,"high",1,5.15890410958904
+"TCGA-A6-2672-01B","82 years"," female"," white"," stage:iiib"," alive",1419,41.5,"high",1,3.88767123287671
+"TCGA-D5-6529-01A","69 years"," male"," white"," stage:iia"," alive",614,41.4,"high",1,1.68219178082192
+"TCGA-AA-3556-01A","78 years"," male",""," stage:i"," alive",700,41.4,"high",1,1.91780821917808
+"TCGA-AA-3697-01A","77 years"," male",""," stage:ii"," alive",2587,41.4,"high",1,7.08767123287671
+"TCGA-CM-5861-01A","63 years"," female"," white"," stage:iia"," alive",457,41.3,"high",1,1.25205479452055
+"TCGA-D5-6920-01A","77 years"," female"," white"," stage:iia"," alive",377,41.3,"high",1,1.03287671232877
+"TCGA-AA-3526-01A","57 years"," male",""," stage:i"," alive",580,41.2,"high",1,1.58904109589041
+"TCGA-AA-A01I-01A","76 years"," male",""," stage:i"," alive",943,41.2,"high",1,2.58356164383562
+"TCGA-A6-5665-01A","84 years"," female"," white"," stage:iia"," alive",671,41.1,"high",1,1.83835616438356
+"TCGA-NH-A8F7-01A","53 years"," female"," black or african american"," stage:iia"," alive",543,41.1,"high",1,1.48767123287671
+"TCGA-CA-6715-01A","63 years"," male"," asian"," stage:iiib"," alive",383,41.1,"high",1,1.04931506849315
+"TCGA-D5-6539-01A","45 years"," female"," white",""," alive",380,40.9,"high",1,1.04109589041096
+"TCGA-AG-A02N-01A","67 years"," male",""," stage:ii"," alive",1885,40.9,"high",1,5.16438356164384
+"TCGA-AG-3587-01A","65 years"," male",""," stage:i"," alive",1400,40.9,"high",1,3.83561643835616
+"TCGA-AA-3553-01A","61 years"," female",""," stage:i"," alive",730,40.9,"high",1,2
+"TCGA-A6-5664-01A","80 years"," male"," black or african american"," stage:iiic"," alive",672,40.8,"high",1,1.84109589041096
+"TCGA-BM-6198-01A","73 years"," male"," white"," stage:iiib"," alive",646,40.8,"high",1,1.76986301369863
+"TCGA-DM-A28K-01A","75 years"," male"," white"," stage:iia"," alive",2988,40.8,"high",1,8.18630136986301
+"TCGA-AA-3655-01A","68 years"," male",""," stage:ii"," alive",1856,40.8,"high",1,5.08493150684932
+"TCGA-CM-5868-01A","59 years"," female"," white"," stage:iva"," alive",518,40.7,"high",1,1.41917808219178
+"TCGA-AF-3911-01A","48 years"," male"," white"," stage:iiic"," alive",1148,40.7,"high",1,3.14520547945205
+"TCGA-EI-6511-01A","52 years"," male"," white"," stage:iiib"," alive",482,40.5,"high",1,1.32054794520548
+"TCGA-NH-A6GB-01A","71 years"," female"," black or african american"," stage:iiic"," alive",476,40.3,"high",1,1.3041095890411
+"TCGA-A6-6141-01A","31 years"," male"," black or african american"," stage:iia"," alive",255,40.3,"high",1,0.698630136986301
+"TCGA-A6-2680-01A","72 years"," female"," black or african american"," stage:ii"," alive",1068,40.3,"high",1,2.92602739726027
+"TCGA-CK-6751-01A","88 years"," female"," white"," stage:i"," alive",3780,40.2,"high",1,10.3561643835616
+"TCGA-D5-6531-01A","75 years"," male"," white"," stage:iia"," alive",540,40,"high",1,1.47945205479452
+"TCGA-AA-A01K-01A","74 years"," female",""," stage:iiic"," alive",943,40,"high",1,2.58356164383562
+"TCGA-AA-3821-01A","81 years"," female",""," stage:i"," alive",31,40,"high",1,0.0849315068493151
+"TCGA-AA-3510-01A","70 years"," male",""," stage:ii"," alive",1946,40,"high",1,5.33150684931507
+"TCGA-AD-6895-01A","84 years"," male"," white"," stage:iiib"," alive",763,39.9,"high",1,2.09041095890411
+"TCGA-AA-3520-01A","86 years"," female",""," stage:ii"," alive",731,39.9,"high",1,2.0027397260274
+"TCGA-AG-3742-01A","85 years"," female",""," stage:i"," alive",30,39.9,"high",1,0.0821917808219178
+"TCGA-F5-6861-01A","60 years"," female"," white"," stage:iia"," alive",1160,39.8,"high",1,3.17808219178082
+"TCGA-F4-6463-01A","51 years"," male"," white"," stage:iia"," alive",1087,39.8,"high",1,2.97808219178082
+"TCGA-AA-3681-01A","77 years"," female",""," stage:iii"," alive",182,39.7,"high",1,0.498630136986301
+"TCGA-AA-A00A-01A","80 years"," male",""," stage:iia"," alive",1157,39.6,"high",1,3.16986301369863
+"TCGA-AG-3609-01A","65 years"," female",""," stage:iiic"," alive",608,39.5,"high",1,1.66575342465753
+"TCGA-AA-3955-01A","38 years"," male",""," stage:iiib"," alive",638,39.4,"high",1,1.74794520547945
+"TCGA-AA-3856-01A","59 years"," male",""," stage:iia"," alive",30,39.3,"high",1,0.0821917808219178
+"TCGA-AG-3732-01A","78 years"," female",""," stage:i"," alive",1003,39.3,"high",1,2.74794520547945
+"TCGA-A6-6654-01A","65 years"," female"," white"," stage:iiib"," alive",726,39.2,"high",1,1.98904109589041
+"TCGA-AG-3902-01A","61 years"," male",""," stage:iia"," alive",974,39.2,"high",1,2.66849315068493
+"TCGA-AA-3950-01A","79 years"," female",""," stage:iia"," alive",730,39.2,"high",1,2
+"TCGA-AA-3831-01A","66 years"," male",""," stage:iia"," alive",547,39.2,"high",1,1.4986301369863
+"TCGA-DY-A1DE-01A","56 years"," female"," white"," stage:iia"," alive",3932,39.1,"high",1,10.772602739726
+"TCGA-CM-6676-01A","82 years"," male"," white"," stage:i"," alive",337,39.1,"high",1,0.923287671232877
+"TCGA-AM-5821-01A","68 years"," female"," white"," stage:iia"," alive",28,39.1,"high",1,0.0767123287671233
+"TCGA-AA-3980-01A","89 years"," female",""," stage:i"," alive",822,39.1,"high",1,2.25205479452055
+"TCGA-AA-3851-01A","74 years"," male",""," stage:iia"," alive",1006,39,"high",1,2.75616438356164
+"TCGA-AA-3524-01A","85 years"," male",""," stage:ii"," alive",1096,39,"high",1,3.0027397260274
+"TCGA-QG-A5Z2-01A","61 years"," male"," black or african american"," stage:i"," alive",952,38.9,"high",1,2.60821917808219
+"TCGA-DM-A1D9-01A","67 years"," female"," white"," stage:iia"," alive",4270,38.9,"high",1,11.6986301369863
+"TCGA-CM-5864-01A","60 years"," male"," white"," stage:i"," alive",457,38.8,"high",1,1.25205479452055
+"TCGA-AF-A56N-01A","47 years"," female"," black or african american"," stage:iia"," alive",360,38.8,"high",1,0.986301369863014
+"TCGA-D5-5540-01A","73 years"," male"," white"," stage:iia"," alive",1706,38.8,"high",1,4.67397260273973
+"TCGA-CM-6680-01A","78 years"," female"," white"," stage:iiib"," alive",366,38.7,"high",1,1.0027397260274
+"TCGA-D5-6928-01A","80 years"," male"," white"," stage:iia"," alive",354,38.7,"high",1,0.96986301369863
+"TCGA-A6-2681-01A","73 years"," female"," white"," stage:iia"," alive",1387,38.7,"high",1,3.8
+"TCGA-EF-5831-01A","72 years"," male"," white"," stage:iia"," alive",127,38.7,"high",1,0.347945205479452
+"TCGA-AA-3530-01A","80 years"," male",""," stage:i"," alive",580,38.7,"high",1,1.58904109589041
+"TCGA-AG-3887-01A","68 years"," male",""," stage:iia"," alive",1124,38.7,"high",1,3.07945205479452
+"TCGA-AA-3496-01A","83 years"," female",""," stage:ii"," alive",31,38.7,"high",1,0.0849315068493151
+"TCGA-AG-3999-01A","61 years"," female",""," stage:iiic"," alive",853,38.7,"high",1,2.33698630136986
+"TCGA-AA-3495-01A","79 years"," male",""," stage:i"," alive",1127,38.6,"high",1,3.08767123287671
+"TCGA-CM-4751-01A","62 years"," male"," white"," stage:iiib"," alive",822,38.5,"high",1,2.25205479452055
+"TCGA-DY-A0XA-01A","57 years"," female"," white"," stage:iia"," alive",3846,38.5,"high",1,10.5369863013699
+"TCGA-D5-6930-01A","67 years"," male"," white"," stage:iia"," alive",406,38.4,"high",1,1.11232876712329
+"TCGA-AA-3970-01A","65 years"," male",""," stage:iia"," alive",1096,38.4,"high",1,3.0027397260274
+"TCGA-AG-3725-01A","90 years"," female",""," stage:iii"," alive",638,38.4,"high",1,1.74794520547945
+"TCGA-G4-6314-01A","76 years"," female"," white"," stage:iv"," alive",1093,38.3,"high",1,2.99452054794521
+"TCGA-AA-A00W-01A","80 years"," male",""," stage:i"," alive",456,38.3,"high",1,1.24931506849315
+"TCGA-A6-6137-01A","55 years"," male"," white"," stage:iiib"," alive",824,38.2,"high",1,2.25753424657534
+"TCGA-EI-6509-01A","53 years"," male"," white"," stage:iiic"," alive",517,38.2,"high",1,1.41643835616438
+"TCGA-F5-6864-01A","74 years"," female"," white"," stage:iiib"," alive",379,38.2,"high",1,1.03835616438356
+"TCGA-F5-6465-01A","64 years"," female"," white"," stage:iia"," alive",1506,38.2,"high",1,4.12602739726027
+"TCGA-EF-5830-01A","54 years"," male"," white"," stage:iib"," alive",106,38.2,"high",1,0.29041095890411
+"TCGA-CM-4748-01A","53 years"," male"," white"," stage:iiib"," alive",792,38.1,"high",1,2.16986301369863
+"TCGA-A6-2675-01A","78 years"," male"," white"," stage:iia"," alive",1321,38.1,"high",1,3.61917808219178
+"TCGA-F4-6569-01A","60 years"," male"," white"," stage:i"," alive",1087,38.1,"high",1,2.97808219178082
+"TCGA-AA-3864-01A","71 years"," male",""," stage:ii"," alive",1612,38.1,"high",1,4.41643835616438
+"TCGA-AG-4005-01A","64 years"," male",""," stage:iv"," alive",427,38.1,"high",1,1.16986301369863
+"TCGA-NH-A5IV-01A","90 years"," female"," black or african american"," stage:iia"," alive",588,38,"high",1,1.61095890410959
+"TCGA-AA-3815-01A","65 years"," female",""," stage:iia"," alive",1005,38,"high",1,2.75342465753425
+"TCGA-AD-6890-01A","65 years"," male"," white",""," alive",746,37.9,"high",1,2.04383561643836
+"TCGA-DC-6681-01A","70 years"," female"," white"," stage:iva"," alive",790,37.8,"low",1,2.16438356164384
+"TCGA-CI-6622-01A","74 years"," male"," white"," stage:iib"," alive",1362,37.8,"low",1,3.73150684931507
+"TCGA-AA-3819-01A","41 years"," female",""," stage:iia"," alive",761,37.8,"low",1,2.08493150684932
+"TCGA-AG-4008-01A","63 years"," male",""," stage:iia"," alive",518,37.8,"low",1,1.41917808219178
+"TCGA-CM-4750-01A","34 years"," female"," white"," stage:iiia"," alive",244,37.7,"low",1,0.668493150684932
+"TCGA-AA-3979-01A","84 years"," male",""," stage:iia"," alive",730,37.6,"low",1,2
+"TCGA-AA-3494-01A","55 years"," male",""," stage:iv"," alive",31,37.6,"low",1,0.0849315068493151
+"TCGA-A6-6138-01A","61 years"," male"," white"," stage:i"," alive",685,37.4,"low",1,1.87671232876712
+"TCGA-AY-A54L-01A","74 years"," female"," black or african american"," stage:i"," alive",525,37.4,"low",1,1.43835616438356
+"TCGA-AA-3855-01A","72 years"," male",""," stage:i"," alive",975,37.4,"low",1,2.67123287671233
+"TCGA-CM-6164-01A","46 years"," female"," white"," stage:iia"," alive",883,37.3,"low",1,2.41917808219178
+"TCGA-AY-6386-01A","66 years"," female"," black or african american"," stage:iiib"," alive",542,37.3,"low",1,1.48493150684931
+"TCGA-AG-3591-01A","66 years"," female",""," stage:iia"," alive",1035,37.3,"low",1,2.83561643835616
+"TCGA-AA-3562-01A","82 years"," male",""," stage:iiic"," alive",608,37.3,"low",1,1.66575342465753
+"TCGA-3L-AA1B-01A","61 years"," female"," black or african american"," stage:i"," alive",475,37.2,"low",1,1.3013698630137
+"TCGA-AH-6903-01A","46 years"," male"," white"," stage:iiib"," alive",592,37.1,"low",1,1.62191780821918
+"TCGA-AA-3968-01A","55 years"," female",""," stage:i"," alive",669,37,"low",1,1.83287671232877
+"TCGA-4T-AA8H-01A","42 years"," female"," black or african american"," stage:iia"," alive",385,36.8,"low",1,1.05479452054795
+"TCGA-AZ-4684-01A","50 years"," male"," white"," stage:iva"," alive",1977,36.7,"low",1,5.41643835616438
+"TCGA-EI-7004-01A","37 years"," female"," white",""," alive",257,36.7,"low",1,0.704109589041096
+"TCGA-AA-A00Q-01A","66 years"," female",""," stage:iiib"," alive",1278,36.6,"low",1,3.5013698630137
+"TCGA-AG-A016-01A","55 years"," male",""," stage:iv"," alive",276,36.6,"low",1,0.756164383561644
+"TCGA-AA-3973-01A","69 years"," male",""," stage:iv"," alive",397,36.4,"low",1,1.08767123287671
+"TCGA-DM-A28E-01A","72 years"," female"," white"," stage:iia"," alive",3648,36.3,"low",1,9.99452054794521
+"TCGA-AZ-4615-01A","84 years"," male"," white"," stage:iiib"," alive",1002,36.3,"low",1,2.74520547945205
+"TCGA-AA-A00K-01A","79 years"," male",""," stage:iia"," alive",549,36.3,"low",1,1.5041095890411
+"TCGA-AA-3532-01A","63 years"," male",""," stage:iia"," alive",882,36.3,"low",1,2.41643835616438
+"TCGA-AA-3986-01A","73 years"," male",""," stage:i"," alive",580,36.3,"low",1,1.58904109589041
+"TCGA-A6-5662-01A","46 years"," male"," white"," stage:iva"," alive",718,36.2,"low",1,1.96712328767123
+"TCGA-AG-A025-01A","62 years"," female",""," stage:i"," alive",1520,36.1,"low",1,4.16438356164384
+"TCGA-CK-4950-01A","68 years"," female"," black or african american"," stage:iiib"," alive",2599,36,"low",1,7.12054794520548
+"TCGA-AA-3860-01A","53 years"," female",""," stage:iiib"," alive",945,36,"low",1,2.58904109589041
+"TCGA-AD-A5EK-01A","51 years"," male"," black or african american"," stage:i"," alive",500,35.9,"low",1,1.36986301369863
+"TCGA-F4-6703-01A","64 years"," male"," white"," stage:iia"," alive",1456,35.9,"low",1,3.98904109589041
+"TCGA-A6-6651-01A","55 years"," female"," white"," stage:iiib"," alive",662,35.8,"low",1,1.81369863013699
+"TCGA-CI-6624-01C","53 years"," female"," white"," stage:i"," alive",1466,35.8,"low",1,4.01643835616438
+"TCGA-DC-6683-01A","43 years"," male"," white"," stage:iiib"," alive",762,35.7,"low",1,2.08767123287671
+"TCGA-T9-A92H-01A","82 years"," male"," black or african american"," stage:iia"," alive",362,35.5,"low",1,0.991780821917808
+"TCGA-AA-3518-01A","81 years"," female",""," stage:iia"," alive",31,35.5,"low",1,0.0849315068493151
+"TCGA-AG-3901-01A","67 years"," female",""," stage:iiib"," alive",761,35.5,"low",1,2.08493150684932
+"TCGA-D5-6541-01A","49 years"," male"," white"," stage:iia"," alive",474,35.4,"low",1,1.2986301369863
+"TCGA-F4-6704-01A","60 years"," male"," american indian or alaska native"," stage:iiic"," alive",47,35.3,"low",1,0.128767123287671
+"TCGA-AF-A56K-01A","56 years"," male"," black or african american"," stage:iia"," alive",2635,35.3,"low",1,7.21917808219178
+"TCGA-AA-3875-01A","78 years"," female",""," stage:i"," alive",549,35.3,"low",1,1.5041095890411
+"TCGA-F4-6806-01A","59 years"," female"," white"," stage:i"," alive",1260,35.2,"low",1,3.45205479452055
+"TCGA-AY-5543-01A","65 years"," female"," black or african american"," stage:iva"," alive",1004,35.2,"low",1,2.75068493150685
+"TCGA-AG-3894-01A","65 years"," male",""," stage:iia"," alive",426,35.2,"low",1,1.16712328767123
+"TCGA-G4-6627-01A","84 years"," male"," white"," stage:iia"," alive",2275,35.1,"low",1,6.23287671232877
+"TCGA-AZ-4315-01A","61 years"," male"," white"," stage:iia"," alive",1776,35.1,"low",1,4.86575342465753
+"TCGA-A6-3808-01A","73 years"," male"," white"," stage:iia"," alive",1014,35.1,"low",1,2.77808219178082
+"TCGA-CM-6674-01A","39 years"," male"," white"," stage:iia"," alive",394,35,"low",1,1.07945205479452
+"TCGA-RU-A8FL-01A","51 years"," male"," black or african american"," stage:iiib"," alive",1177,35,"low",1,3.22465753424658
+"TCGA-AA-A01Z-01A","68 years"," male",""," stage:ii"," alive",1126,35,"low",1,3.08493150684932
+"TCGA-CM-6678-01A","63 years"," female"," white"," stage:iva"," alive",335,34.9,"low",1,0.917808219178082
+"TCGA-DM-A28M-01A","63 years"," male"," white"," stage:iia"," alive",2895,34.9,"low",1,7.93150684931507
+"TCGA-EI-6510-01A","77 years"," female"," white",""," alive",556,34.9,"low",1,1.52328767123288
+"TCGA-G4-6625-01A","77 years"," female"," white"," stage:iia"," alive",2792,34.7,"low",1,7.64931506849315
+"TCGA-CM-5349-01A","68 years"," female"," white"," stage:iia"," alive",915,34.6,"low",1,2.50684931506849
+"TCGA-AA-3543-01A","84 years"," male",""," stage:i"," alive",30,34.3,"low",1,0.0821917808219178
+"TCGA-AA-3977-01A","65 years"," male","",""," alive",761,34.2,"low",1,2.08493150684932
+"TCGA-AA-3844-01A","78 years"," female",""," stage:iiic"," alive",454,34.2,"low",1,1.24383561643836
+"TCGA-F5-6811-01A","72 years"," female"," white"," stage:iia"," alive",979,34.1,"low",1,2.68219178082192
+"TCGA-AA-3976-01A","70 years"," male",""," stage:iiia"," alive",791,34,"low",1,2.16712328767123
+"TCGA-AG-A014-01A","86 years"," male",""," stage:i"," alive",485,34,"low",1,1.32876712328767
+"TCGA-CM-4744-01A","69 years"," male"," white"," stage:i"," alive",609,33.9,"low",1,1.66849315068493
+"TCGA-G4-6307-01A","37 years"," female"," white"," stage:iiib"," alive",1674,33.9,"low",1,4.58630136986301
+"TCGA-AG-3896-01A","85 years"," female",""," stage:i"," alive",31,33.9,"low",1,0.0849315068493151
+"TCGA-D5-6538-01A","79 years"," female"," white"," stage:iiib"," alive",521,33.8,"low",1,1.42739726027397
+"TCGA-AA-3519-01A","63 years"," male",""," stage:iii"," alive",276,33.8,"low",1,0.756164383561644
+"TCGA-AF-4110-01A","77 years"," male"," white"," stage:iva"," alive",912,33.7,"low",1,2.4986301369863
+"TCGA-AZ-5407-01A","51 years"," female"," white"," stage:i"," alive",2683,33.7,"low",1,7.35068493150685
+"TCGA-D5-6540-01A","66 years"," male"," white"," stage:i"," alive",491,33.6,"low",1,1.34520547945205
+"TCGA-G4-6293-01A","49 years"," female"," white"," stage:iii"," alive",4051,33.6,"low",1,11.0986301369863
+"TCGA-AA-3554-01A","62 years"," female",""," stage:iia"," alive",546,33.6,"low",1,1.4958904109589
+"TCGA-CM-5348-01A","72 years"," male"," white"," stage:iiib"," alive",699,33.3,"low",1,1.91506849315068
+"TCGA-AU-3779-01A","80 years"," female"," white"," stage:iia"," alive",441,33.3,"low",1,1.20821917808219
+"TCGA-A6-3807-01A","53 years"," female"," white"," stage:iiic"," alive",1054,33.3,"low",1,2.88767123287671
+"TCGA-AA-3502-01A","73 years"," male",""," stage:i"," alive",1065,33.3,"low",1,2.91780821917808
+"TCGA-G4-6304-01A","66 years"," female"," white"," stage:iib"," alive",1631,33.2,"low",1,4.46849315068493
+"TCGA-AA-3870-01A","71 years"," female",""," stage:iv"," alive",912,33.2,"low",1,2.4986301369863
+"TCGA-EI-6514-01A","59 years"," female"," white"," stage:iia"," alive",496,33.1,"low",1,1.35890410958904
+"TCGA-AG-4001-01A","74 years"," female",""," stage:iia"," alive",1096,33.1,"low",1,3.0027397260274
+"TCGA-AG-A011-01A","80 years"," male",""," stage:iia"," alive",1126,33,"low",1,3.08493150684932
+"TCGA-AA-3548-01A","71 years"," female",""," stage:iiic"," alive",1034,33,"low",1,2.83287671232877
+"TCGA-AY-A8YK-01A","44 years"," male"," black or african american"," stage:iva"," alive",573,32.9,"low",1,1.56986301369863
+"TCGA-CM-6679-01A","58 years"," male"," white"," stage:iia"," alive",306,32.9,"low",1,0.838356164383562
+"TCGA-AA-3854-01A","71 years"," female",""," stage:i"," alive",1096,32.9,"low",1,3.0027397260274
+"TCGA-A6-6142-01A","56 years"," female"," white"," stage:iva"," alive",763,32.7,"low",1,2.09041095890411
+"TCGA-D5-6530-01A","53 years"," male"," white"," stage:i"," alive",621,32.7,"low",1,1.7013698630137
+"TCGA-AG-3586-01A","72 years"," female",""," stage:iii"," alive",31,32.7,"low",1,0.0849315068493151
+"TCGA-AA-A02O-01A","82 years"," male",""," stage:ii"," alive",28,32.7,"low",1,0.0767123287671233
+"TCGA-AA-3982-01A","75 years"," male",""," stage:iiib"," alive",822,32.7,"low",1,2.25205479452055
+"TCGA-A6-4107-01A","57 years"," female"," white"," stage:iiib"," alive",987,32.6,"low",1,2.7041095890411
+"TCGA-G4-6323-01A","50 years"," male"," black or african american"," stage:ia"," alive",419,32.6,"low",1,1.14794520547945
+"TCGA-G4-6322-01A","65 years"," male"," white"," stage:iiib"," alive",792,32.5,"low",1,2.16986301369863
+"TCGA-AA-A029-01A","67 years"," male",""," stage:ii"," alive",1581,32.5,"low",1,4.33150684931507
+"TCGA-NH-A50V-01A","69 years"," male"," black or african american"," stage:iiib"," alive",588,32.3,"low",1,1.61095890410959
+"TCGA-AG-3598-01A","69 years"," male",""," stage:iia"," alive",1522,32.3,"low",1,4.16986301369863
+"TCGA-AA-3511-01A","64 years"," male",""," stage:ii"," alive",212,32.3,"low",1,0.580821917808219
+"TCGA-CL-5918-01A","90 years"," female"," white"," stage:iia"," alive",218,32.2,"low",1,0.597260273972603
+"TCGA-AF-2691-01A","48 years"," female"," white"," stage:i"," alive",1309,32.2,"low",1,3.58630136986301
+"TCGA-AG-3608-01A","79 years"," female",""," stage:iia"," alive",485,32.1,"low",1,1.32876712328767
+"TCGA-AA-A01V-01A","59 years"," male",""," stage:i"," alive",31,32.1,"low",1,0.0849315068493151
+"TCGA-AA-3522-01A","67 years"," male",""," stage:iia"," alive",1127,32.1,"low",1,3.08767123287671
+"TCGA-A6-3810-01A","63 years"," male"," white"," stage:iia"," alive",1111,32,"low",1,3.04383561643836
+"TCGA-DC-5337-01A","69 years"," male"," white"," stage:i"," alive",792,31.9,"low",1,2.16986301369863
+"TCGA-CM-4746-01A","61 years"," male"," black or african american"," stage:i"," alive",1126,31.9,"low",1,3.08493150684932
+"TCGA-AA-3966-01A","89 years"," female",""," stage:iia"," alive",61,31.9,"low",1,0.167123287671233
+"TCGA-EI-6883-01A","63 years"," male"," white"," stage:iic"," alive",350,31.8,"low",1,0.958904109589041
+"TCGA-D5-6932-01A","69 years"," male"," white"," stage:iia"," alive",346,31.7,"low",1,0.947945205479452
+"TCGA-A6-A5ZU-01A","59 years"," male"," black or african american"," stage:iiib"," alive",293,31.7,"low",1,0.802739726027397
+"TCGA-F4-6808-01A","54 years"," female"," white"," stage:i"," alive",1024,31.7,"low",1,2.80547945205479
+"TCGA-AA-3867-01A","74 years"," male",""," stage:iv"," alive",731,31.7,"low",1,2.0027397260274
+"TCGA-AG-A00C-01A","49 years"," female",""," stage:iiib"," alive",183,31.7,"low",1,0.501369863013699
+"TCGA-A6-6782-01A","82 years"," male"," white"," stage:iib"," alive",617,31.5,"low",1,1.69041095890411
+"TCGA-DM-A1HB-01A","75 years"," male"," white"," stage:iiib"," alive",4126,31.5,"low",1,11.3041095890411
+"TCGA-AA-3663-01A","42 years"," male",""," stage:ii"," alive",212,31.5,"low",1,0.580821917808219
+"TCGA-WS-AB45-01A","female"," black or african american",""," stage:iia"," alive",2130,31.4,"low",1,5.83561643835616
+"TCGA-G5-6235-01A","72 years"," male"," white"," stage:iiib"," alive",1696,31.3,"low",1,4.64657534246575
+"TCGA-AA-A00L-01A","66 years"," male",""," stage:iia"," alive",1157,31.3,"low",1,3.16986301369863
+"TCGA-AA-3861-01A","72 years"," male",""," stage:iia"," alive",914,31.3,"low",1,2.5041095890411
+"TCGA-AA-A00O-01A","83 years"," female",""," stage:iiic"," alive",822,31.3,"low",1,2.25205479452055
+"TCGA-AA-3837-01A","67 years"," male",""," stage:iia"," alive",1186,31.3,"low",1,3.24931506849315
+"TCGA-AA-A01F-01A","72 years"," male",""," stage:iiib"," alive",974,31.3,"low",1,2.66849315068493
+"TCGA-A6-2674-01A","72 years"," male"," white"," stage:iv"," alive",1331,31.2,"low",1,3.64657534246575
+"TCGA-AA-3972-01A","72 years"," male",""," stage:iv"," alive",1551,31.2,"low",1,4.24931506849315
+"TCGA-CM-4752-01A","58 years"," male"," black or african american"," stage:iia"," alive",396,31.1,"low",1,1.08493150684932
+"TCGA-AA-3956-01A","65 years"," male",""," stage:iia"," alive",1035,31.1,"low",1,2.83561643835616
+"TCGA-DC-4745-01A","49 years"," female"," white"," stage:iiib"," alive",639,31,"low",1,1.75068493150685
+"TCGA-AA-3994-01A","69 years"," male",""," stage:iiib"," alive",822,31,"low",1,2.25205479452055
+"TCGA-CA-5796-01A","53 years"," female"," asian"," stage:iia"," alive",377,30.8,"low",1,1.03287671232877
+"TCGA-AA-3846-01A","74 years"," female",""," stage:iia"," alive",518,30.8,"low",1,1.41917808219178
+"TCGA-AA-3877-01A","83 years"," female",""," stage:i"," alive",943,30.8,"low",1,2.58356164383562
+"TCGA-DC-6154-01A","57 years"," female"," white"," stage:iva"," alive",365,30.7,"low",1,1
+"TCGA-G4-6586-01A","74 years"," female"," white"," stage:iia"," alive",1089,30.7,"low",1,2.98356164383562
+"TCGA-AA-A00F-01A","66 years"," male",""," stage:iiic"," alive",1035,30.7,"low",1,2.83561643835616
+"TCGA-D5-6534-01A","62 years"," female"," white"," stage:iia"," alive",1316,30.6,"low",1,3.60547945205479
+"TCGA-AG-3581-01A","63 years"," male",""," stage:i"," alive",215,30.6,"low",1,0.589041095890411
+"TCGA-AG-4007-01A","87 years"," male",""," stage:iv"," alive",31,30.6,"low",1,0.0849315068493151
+"TCGA-D5-6929-01A","49 years"," female"," white"," stage:iv"," alive",408,30.5,"low",1,1.11780821917808
+"TCGA-DM-A1HA-01A","82 years"," male"," white"," stage:iiic"," alive",4000,30.5,"low",1,10.958904109589
+"TCGA-G5-6641-01A","67 years"," male"," white"," stage:iiia"," alive",804,30.3,"low",1,2.2027397260274
+"TCGA-AA-3862-01A","82 years"," male",""," stage:iia"," alive",914,30.3,"low",1,2.5041095890411
+"TCGA-AA-3662-01A","80 years"," female",""," stage:iv"," alive",184,30.2,"low",1,0.504109589041096
+"TCGA-AA-3549-01A","69 years"," male",""," stage:i"," alive",639,30.2,"low",1,1.75068493150685
+"TCGA-AG-3890-01A","62 years"," male",""," stage:i"," alive",518,30.1,"low",1,1.41917808219178
+"TCGA-F5-6702-01A","71 years"," male"," white"," stage:iva"," alive",869,30,"low",1,2.38082191780822
+"TCGA-AA-3939-01A","83 years"," male",""," stage:iia"," alive",395,30,"low",1,1.08219178082192
+"TCGA-AG-3575-01A","51 years"," male",""," stage:ii"," alive",365,30,"low",1,1
+"TCGA-AA-3833-01A","63 years"," female",""," stage:iia"," alive",485,30,"low",1,1.32876712328767
+"TCGA-G4-6310-01A","69 years"," male"," white"," stage:iiib"," alive",1935,29.9,"low",1,5.3013698630137
+"TCGA-G4-6306-01A","71 years"," male"," white",""," alive",1359,29.9,"low",1,3.72328767123288
+"TCGA-AY-A71X-01A","54 years"," female"," black or african american"," stage:i"," alive",588,29.8,"low",1,1.61095890410959
+"TCGA-AA-3525-01A","90 years"," male",""," stage:iiib"," alive",245,29.8,"low",1,0.671232876712329
+"TCGA-AA-3531-01A","75 years"," female",""," stage:iia"," alive",1035,29.7,"low",1,2.83561643835616
+"TCGA-F5-6571-01A","62 years"," female"," white"," stage:iia"," alive",1288,29.6,"low",1,3.52876712328767
+"TCGA-CK-6748-01A","45 years"," female"," white"," stage:iv"," alive",61,29.5,"low",1,0.167123287671233
+"TCGA-CA-5255-01A","45 years"," male"," asian"," stage:iia"," alive",376,29.5,"low",1,1.03013698630137
+"TCGA-AA-3561-01A","72 years"," male",""," stage:iia"," alive",424,29,"low",1,1.16164383561644
+"TCGA-CM-5863-01A","60 years"," female"," white"," stage:iiib"," alive",457,28.9,"low",1,1.25205479452055
+"TCGA-AG-A00H-01A","75 years"," male",""," stage:iia"," alive",790,28.9,"low",1,2.16438356164384
+"TCGA-AA-A017-01A","57 years"," female",""," stage:iia"," alive",457,28.9,"low",1,1.25205479452055
+"TCGA-F5-6812-01A","67 years"," male"," white"," stage:iia"," alive",1110,28.8,"low",1,3.04109589041096
+"TCGA-AA-3685-01A","69 years"," male",""," stage:ii"," alive",1127,28.8,"low",1,3.08767123287671
+"TCGA-AA-3544-01A","68 years"," male",""," stage:i"," alive",426,28.6,"low",1,1.16712328767123
+"TCGA-AA-3971-01A","58 years"," male",""," stage:iii"," alive",489,28.6,"low",1,1.33972602739726
+"TCGA-DM-A1D0-01A","79 years"," female"," white"," stage:iia"," alive",3974,28.3,"low",1,10.8876712328767
+"TCGA-AZ-4313-01A","51 years"," female"," white"," stage:i"," alive",2310,28.1,"low",1,6.32876712328767
+"TCGA-AA-3841-01A","66 years"," male",""," stage:iia"," alive",1124,28.1,"low",1,3.07945205479452
+"TCGA-AA-A01Q-01A","48 years"," female",""," stage:ii"," alive",31,27.9,"low",1,0.0849315068493151
+"TCGA-AA-3949-01A","87 years"," female",""," stage:iiib"," alive",791,27.9,"low",1,2.16712328767123
+"TCGA-CM-4747-01A","47 years"," male"," white"," stage:iva"," alive",761,27.6,"low",1,2.08493150684932
+"TCGA-AA-A02Y-01A","73 years"," male",""," stage:i"," alive",1216,27.6,"low",1,3.33150684931507
+"TCGA-AA-3679-01A","59 years"," male",""," stage:iv"," alive",457,27.6,"low",1,1.25205479452055
+"TCGA-AG-3892-01A","57 years"," female",""," stage:i"," alive",396,27.5,"low",1,1.08493150684932
+"TCGA-AG-3893-01A","74 years"," male",""," stage:iiib"," alive",1065,27.4,"low",1,2.91780821917808
+"TCGA-AA-3672-01A","90 years"," female",""," stage:iii"," alive",28,27.3,"low",1,0.0767123287671233
+"TCGA-G4-6317-01A","51 years"," female"," white"," stage:iiic"," alive",1095,27,"low",1,3
+"TCGA-AG-3909-01A","69 years"," female",""," stage:iiib"," alive",608,26.9,"low",1,1.66575342465753
+"TCGA-AG-A032-01A","68 years"," male",""," stage:iiib"," alive",1157,26.8,"low",1,3.16986301369863
+"TCGA-AA-A01C-01A","75 years"," male",""," stage:iiia"," alive",457,26.7,"low",1,1.25205479452055
+"TCGA-AG-3611-01A","72 years"," male",""," stage:iia"," alive",424,26.7,"low",1,1.16164383561644
+"TCGA-CM-5344-01A","39 years"," female"," white"," stage:iiib"," alive",670,26.6,"low",1,1.83561643835616
+"TCGA-CA-5256-01A","54 years"," female"," asian"," stage:iia"," alive",379,26.6,"low",1,1.03835616438356
+"TCGA-AG-A01J-01A","59 years"," female",""," stage:iia"," alive",31,26.6,"low",1,0.0849315068493151
+"TCGA-AG-4022-01A","59 years"," female",""," stage:ii"," alive",1400,26.5,"low",1,3.83561643835616
+"TCGA-DM-A282-01A","61 years"," female"," white"," stage:iia"," alive",4233,25.9,"low",1,11.5972602739726
+"TCGA-AF-3400-01A","54 years"," male"," white"," stage:iia"," alive",1049,25.8,"low",1,2.87397260273973
+"TCGA-AG-3605-01A","85 years"," female",""," stage:iv"," alive",30,25.6,"low",1,0.0821917808219178
+"TCGA-G4-6320-01A","73 years"," male"," white"," stage:iii"," alive",804,25.4,"low",1,2.2027397260274
+"TCGA-DT-5265-01A","51 years"," male"," asian"," stage:ii"," alive",384,25.4,"low",1,1.05205479452055
+"TCGA-A6-2684-01C","75 years"," female"," white"," stage:i"," alive",1127,25.4,"low",1,3.08767123287671
+"TCGA-NH-A6GC-01A","66 years"," female"," black or african american"," stage:ivb"," alive",389,24.5,"low",1,1.06575342465753
+"TCGA-AA-3941-01A","84 years"," female",""," stage:iva"," alive",730,24.3,"low",1,2
+"TCGA-AA-A03J-01A","65 years"," female",""," stage:i"," alive",1246,24.2,"low",1,3.41369863013699
+"TCGA-AA-3506-01A","77 years"," male",""," stage:i"," alive",1765,24.2,"low",1,4.83561643835616
+"TCGA-A6-5656-01B","74 years"," male"," white"," stage:i"," alive",1001,24.1,"low",1,2.74246575342466
+"TCGA-AY-6196-01A","47 years"," male"," white"," stage:iiic"," alive",6,23.9,"low",1,0.0164383561643836
+"TCGA-AA-3514-01A","81 years"," female",""," stage:i"," alive",31,23.8,"low",1,0.0849315068493151
+"TCGA-A6-2685-01A","48 years"," female"," black or african american"," stage:iia"," alive",1133,23.5,"low",1,3.1041095890411
+"TCGA-4N-A93T-01A","67 years"," male"," black or african american"," stage:iiib"," alive",146,23.2,"low",1,0.4
+"TCGA-A6-2679-01A","73 years"," female"," white"," stage:iib"," alive",1366,23.2,"low",1,3.74246575342466
+"TCGA-AA-3975-01A","80 years"," male",""," stage:i"," alive",1036,23.1,"low",1,2.83835616438356
+"TCGA-AG-3881-01A","83 years"," female",""," stage:iia"," alive",579,22.9,"low",1,1.58630136986301
+"TCGA-AG-3728-01A","73 years"," male",""," stage:iiib"," alive",912,22.9,"low",1,2.4986301369863
+"TCGA-CM-4743-01A","69 years"," male"," white"," stage:iia"," alive",701,22.6,"low",1,1.92054794520548
+"TCGA-AA-3812-01A","82 years"," female",""," stage:iia"," alive",1066,22.6,"low",1,2.92054794520548
+"TCGA-AA-3667-01A","36 years"," female",""," stage:i"," alive",426,22.3,"low",1,1.16712328767123
+"TCGA-AG-3882-01A","66 years"," female",""," stage:i"," alive",608,22.1,"low",1,1.66575342465753
+"TCGA-CM-5341-01A","82 years"," female"," white"," stage:iiia"," alive",884,21.4,"low",1,2.42191780821918
+"TCGA-AG-3885-01A","71 years"," female",""," stage:iiib"," alive",546,21.2,"low",1,1.4958904109589
+"TCGA-AG-3878-01A","64 years"," male",""," stage:i"," alive",30,19.6,"low",1,0.0821917808219178
+"TCGA-AG-3727-01A","78 years"," female",""," stage:iii"," alive",30,19.4,"low",1,0.0821917808219178
+"TCGA-AA-A01T-01A","63 years"," female",""," stage:iii"," alive",1005,19.2,"low",1,2.75342465753425
+"TCGA-AA-3542-01A","69 years"," male",""," stage:iiic"," alive",395,19.1,"low",1,1.08219178082192
+"TCGA-AZ-4308-01A","47 years"," female"," white"," stage:iiib"," alive",3324,18.9,"low",1,9.10684931506849
+"TCGA-AG-3726-01A","63 years"," female",""," stage:i"," alive",243,18.4,"low",1,0.665753424657534
+"TCGA-A6-6781-01B","43 years"," male"," white"," stage:iiic"," alive",598,17,"low",1,1.63835616438356
+"TCGA-AG-3883-01A","69 years"," male",""," stage:i"," alive",31,15.3,"low",1,0.0849315068493151
+"TCGA-G4-6321-01A","60 years"," female"," white"," stage:iii"," alive",672,14.4,"low",1,1.84109589041096
+"TCGA-AA-A004-01A","76 years"," male",""," stage:iia"," alive",424,12.4,"low",1,1.16164383561644
+"TCGA-DC-6155-01A","31 years"," female"," white"," stage:iiia"," alive",425,7.4,"low",1,1.16438356164384
+"TCGA-AH-6643-01A","50 years"," male"," white"," stage:iiic"," dead",1314,60.3,"high",0,3.6
+"TCGA-CA-6718-01A","46 years"," male"," asian"," stage:iia"," dead",306,58.9,"high",0,0.838356164383562
+"TCGA-NH-A6GA-01A","58 years"," male"," black or african american"," stage:iiic"," dead",302,57.3,"high",0,0.827397260273973
+"TCGA-AZ-6606-01A","81 years"," male"," white"," stage:iv"," dead",357,54.1,"high",0,0.978082191780822
+"TCGA-CK-5916-01A","71 years"," female"," white"," stage:i"," dead",643,54,"high",0,1.76164383561644
+"TCGA-DC-6158-01A","70 years"," male"," white"," stage:i"," dead",334,53.8,"high",0,0.915068493150685
+"TCGA-QG-A5Z1-01A","71 years"," male"," black or african american"," stage:iiib"," dead",256,52.6,"high",0,0.701369863013699
+"TCGA-G4-6303-01A","54 years"," female"," white"," stage:iv"," dead",2003,52.1,"high",0,5.48767123287671
+"TCGA-AZ-4323-01A","37 years"," male"," white"," stage:iv"," dead",43,50.7,"high",0,0.117808219178082
+"TCGA-A6-A56B-01A","57 years"," male"," black or african american"," stage:iiib"," dead",1711,49.5,"high",0,4.68767123287671
+"TCGA-CL-4957-01A","79 years"," female","",""," dead",425,49.1,"high",0,1.16438356164384
+"TCGA-AA-3869-01A","76 years"," male",""," stage:iv"," dead",822,49,"high",0,2.25205479452055
+"TCGA-CK-5912-01A","82 years"," male"," white"," stage:i"," dead",1493,48.7,"high",0,4.09041095890411
+"TCGA-AZ-6600-01A","64 years"," male"," black or african american"," stage:iv"," dead",368,48.6,"high",0,1.00821917808219
+"TCGA-DM-A28F-01A","73 years"," male"," white"," stage:iiib"," dead",1094,48.2,"high",0,2.9972602739726
+"TCGA-DM-A1DB-01A","68 years"," male"," white"," stage:iia"," dead",1348,47.3,"high",0,3.69315068493151
+"TCGA-DM-A28A-01A","78 years"," male"," white"," stage:iiic"," dead",805,47,"high",0,2.20547945205479
+"TCGA-AG-4021-01A","84 years"," female",""," stage:iv"," dead",121,46.7,"high",0,0.331506849315069
+"TCGA-5M-AAT4-01A","74 years"," male"," black or african american"," stage:iv"," dead",49,46.1,"high",0,0.134246575342466
+"TCGA-DM-A28C-01A","74 years"," male"," white"," stage:iia"," dead",2475,46,"high",0,6.78082191780822
+"TCGA-AA-3492-01A","90 years"," female",""," stage:ii"," dead",92,45.6,"high",0,0.252054794520548
+"TCGA-AA-A02R-01A","84 years"," female",""," stage:iia"," dead",670,45.3,"high",0,1.83561643835616
+"TCGA-AG-3582-01A","75 years"," male",""," stage:iv"," dead",1096,45.2,"high",0,3.0027397260274
+"TCGA-AA-3930-01A","66 years"," male",""," stage:iv"," dead",61,45.1,"high",0,0.167123287671233
+"TCGA-A6-2676-01A","75 years"," female"," white"," stage:iib"," dead",1305,45,"high",0,3.57534246575342
+"TCGA-A6-4105-01A","79 years"," male"," white"," stage:iia"," dead",442,44.8,"high",0,1.21095890410959
+"TCGA-AZ-4614-01A","71 years"," female"," white"," stage:iva"," dead",172,44.8,"high",0,0.471232876712329
+"TCGA-AD-6899-01A","84 years"," male"," white"," stage:iiic"," dead",176,44.6,"high",0,0.482191780821918
+"TCGA-A6-2671-01A","85 years"," male"," white"," stage:iv"," dead",1331,44.2,"high",0,3.64657534246575
+"TCGA-A6-2677-01B","68 years"," female"," white"," stage:iiic"," dead",740,44,"high",0,2.02739726027397
+"TCGA-AA-A01D-01A","47 years"," female",""," stage:iiic"," dead",334,44,"high",0,0.915068493150685
+"TCGA-AA-A02J-01A","70 years"," female",""," stage:iv"," dead",153,43.7,"high",0,0.419178082191781
+"TCGA-A6-A567-01A","56 years"," male"," black or african american"," stage:iv"," dead",1881,43.5,"high",0,5.15342465753425
+"TCGA-5M-AAT6-01A","40 years"," female"," black or african american"," stage:iv"," dead",290,43.1,"high",0,0.794520547945205
+"TCGA-AF-5654-01A","73 years"," female"," white"," stage:i"," dead",512,43,"high",0,1.4027397260274
+"TCGA-G4-6626-01A","90 years"," male"," white"," stage:iia"," dead",1422,43,"high",0,3.8958904109589
+"TCGA-F4-6459-01A","61 years"," female"," white"," stage:iiib"," dead",262,42.6,"high",0,0.717808219178082
+"TCGA-D5-6537-01A","64 years"," male"," white"," stage:iiib"," dead",146,42.2,"high",0,0.4
+"TCGA-D5-5538-01A","60 years"," female"," white"," stage:iiib"," dead",1661,42,"high",0,4.55068493150685
+"TCGA-F5-6813-01A","70 years"," male"," white"," stage:iiic"," dead",598,41.9,"high",0,1.63835616438356
+"TCGA-G5-6572-01A","56 years"," male"," white",""," dead",1432,41.9,"high",0,3.92328767123288
+"TCGA-G5-6233-01A","74 years"," male"," white",""," dead",556,41.5,"high",0,1.52328767123288
+"TCGA-AA-A01P-01A","80 years"," female",""," stage:iii"," dead",1158,41.4,"high",0,3.17260273972603
+"TCGA-AA-3666-01A","68 years"," male",""," stage:iii"," dead",61,40.7,"high",0,0.167123287671233
+"TCGA-AA-3811-01A","84 years"," female",""," stage:iii"," dead",306,40.1,"high",0,0.838356164383562
+"TCGA-AA-3680-01A","67 years"," female",""," stage:iv"," dead",335,39.9,"high",0,0.917808219178082
+"TCGA-AA-A02E-01A","82 years"," female",""," stage:iv"," dead",90,39.6,"high",0,0.246575342465753
+"TCGA-AA-A02K-01A","50 years"," male",""," stage:iv"," dead",426,39.5,"high",0,1.16712328767123
+"TCGA-DM-A0XF-01A","68 years"," female"," white"," stage:iiic"," dead",1162,39.4,"high",0,3.18356164383562
+"TCGA-F5-6863-01A","71 years"," female"," white"," stage:iiib"," dead",361,39.1,"high",0,0.989041095890411
+"TCGA-AZ-6601-01A","68 years"," male"," white"," stage:ii"," dead",3042,38.9,"high",0,8.33424657534247
+"TCGA-DM-A1D6-01A","88 years"," male"," white"," stage:iia"," dead",1518,38.9,"high",0,4.15890410958904
+"TCGA-AA-3516-01A","74 years"," female",""," stage:iii"," dead",396,37.9,"high",0,1.08493150684932
+"TCGA-AA-3818-01A","78 years"," female",""," stage:iia"," dead",30,37.9,"high",0,0.0821917808219178
+"TCGA-AA-3488-01A","58 years"," male",""," stage:iv"," dead",153,37.8,"low",0,0.419178082191781
+"TCGA-AA-A02H-01A","74 years"," female",""," stage:iv"," dead",61,37.7,"low",0,0.167123287671233
+"TCGA-AG-A02G-01A","66 years"," male",""," stage:iv"," dead",1185,37.5,"low",0,3.24657534246575
+"TCGA-AZ-6608-01A","55 years"," female"," white"," stage:iiia"," dead",59,37,"low",0,0.161643835616438
+"TCGA-AZ-5403-01A","43 years"," male"," white"," stage:ii"," dead",1910,36.9,"low",0,5.23287671232877
+"TCGA-AG-A026-01A","66 years"," male",""," stage:ii"," dead",59,36.7,"low",0,0.161643835616438
+"TCGA-AA-3692-01A","47 years"," female",""," stage:iv"," dead",1095,36.6,"low",0,3
+"TCGA-AF-3913-01A","60 years"," male"," black or african american"," stage:iv"," dead",316,36.5,"low",0,0.865753424657534
+"TCGA-G4-6298-01A","90 years"," male"," black or african american"," stage:iiib"," dead",715,36.4,"low",0,1.95890410958904
+"TCGA-AZ-6603-01A","77 years"," female"," white",""," dead",899,36.1,"low",0,2.46301369863014
+"TCGA-AA-3489-01A","75 years"," male",""," stage:ii"," dead",214,35.7,"low",0,0.586301369863014
+"TCGA-F5-6464-01A","77 years"," female"," white"," stage:iiic"," dead",303,35.6,"low",0,0.83013698630137
+"TCGA-AG-A023-01A","62 years"," female",""," stage:iv"," dead",1581,35.6,"low",0,4.33150684931507
+"TCGA-DY-A1H8-01A","77 years"," female"," white"," stage:iiia"," dead",992,35.3,"low",0,2.71780821917808
+"TCGA-F4-6461-01A","41 years"," female"," white"," stage:iiic"," dead",338,35.2,"low",0,0.926027397260274
+"TCGA-AD-6964-01A","58 years"," male"," white",""," dead",331,35.2,"low",0,0.906849315068493
+"TCGA-AY-4070-01A","51 years"," female"," black or african american"," stage:iiic"," dead",496,35.1,"low",0,1.35890410958904
+"TCGA-AZ-4682-01B","61 years"," male"," white"," stage:iva"," dead",680,34.8,"low",0,1.86301369863014
+"TCGA-AZ-6598-01A","77 years"," female"," white"," stage:ii"," dead",1503,34.6,"low",0,4.11780821917808
+"TCGA-AF-2690-01A","77 years"," female"," white"," stage:iiic"," dead",524,34.3,"low",0,1.43561643835616
+"TCGA-AG-3594-01A","77 years"," male",""," stage:iia"," dead",61,34.3,"low",0,0.167123287671233
+"TCGA-NH-A8F8-01A","79 years"," male"," black or african american"," stage:iv"," dead",511,33.8,"low",0,1.4
+"TCGA-DY-A1DC-01A","72 years"," female"," white"," stage:iia"," dead",1258,33.8,"low",0,3.44657534246575
+"TCGA-DM-A1DA-01A","71 years"," female"," white"," stage:iiic"," dead",228,33.7,"low",0,0.624657534246575
+"TCGA-CK-4951-01A","79 years"," female"," white"," stage:iia"," dead",2134,33.5,"low",0,5.84657534246575
+"TCGA-AA-A00N-01A","75 years"," male",""," stage:iib"," dead",122,33.5,"low",0,0.334246575342466
+"TCGA-F4-6460-01A","51 years"," female"," white"," stage:iiib"," dead",972,33.3,"low",0,2.66301369863014
+"TCGA-AZ-6605-01A","78 years"," male"," white"," stage:iiib"," dead",159,33.2,"low",0,0.435616438356164
+"TCGA-AD-6888-01A","73 years"," male"," white"," stage:iiib"," dead",472,33.1,"low",0,1.29315068493151
+"TCGA-AG-3584-01A","60 years"," male",""," stage:iv"," dead",730,33,"low",0,2
+"TCGA-DM-A285-01A","71 years"," female"," white"," stage:iv"," dead",179,32.7,"low",0,0.49041095890411
+"TCGA-AA-3848-01A","82 years"," female",""," stage:iiic"," dead",306,32.7,"low",0,0.838356164383562
+"TCGA-A6-A566-01A","55 years"," female"," black or african american"," stage:iiib"," dead",758,32.6,"low",0,2.07671232876712
+"TCGA-NH-A50U-01A","42 years"," male"," black or african american"," stage:iva"," dead",334,32.6,"low",0,0.915068493150685
+"TCGA-DM-A1D7-01A","82 years"," male"," white"," stage:iia"," dead",405,32.5,"low",0,1.10958904109589
+"TCGA-AA-3696-01A","75 years"," female",""," stage:iv"," dead",153,32.5,"low",0,0.419178082191781
+"TCGA-DM-A28G-01A","75 years"," male"," white"," stage:iia"," dead",1849,32.4,"low",0,5.06575342465753
+"TCGA-AA-3552-01A","85 years"," male",""," stage:iiic"," dead",396,32.3,"low",0,1.08493150684932
+"TCGA-AH-6547-01A","79 years"," female"," white",""," dead",76,32.2,"low",0,0.208219178082192
+"TCGA-AD-6901-01A","78 years"," male"," white",""," dead",682,32.1,"low",0,1.86849315068493
+"TCGA-G4-6302-01A","90 years"," female"," white"," stage:iia"," dead",2047,31.9,"low",0,5.60821917808219
+"TCGA-F4-6570-01A","78 years"," female"," white"," stage:iia"," dead",188,31.9,"low",0,0.515068493150685
+"TCGA-G4-6294-01A","76 years"," male"," white"," stage:iv"," dead",858,31.6,"low",0,2.35068493150685
+"TCGA-D5-5537-01A","83 years"," male"," white",""," dead",1381,30.8,"low",0,3.78356164383562
+"TCGA-CM-5862-01A","80 years"," male"," white"," stage:iva"," dead",153,30.7,"low",0,0.419178082191781
+"TCGA-A6-A565-01A","34 years"," female"," black or african american"," stage:iiic"," dead",494,30.6,"low",0,1.35342465753425
+"TCGA-DM-A1D4-01A","80 years"," male"," white"," stage:iia"," dead",2821,30.5,"low",0,7.72876712328767
+"TCGA-AZ-6599-01A","72 years"," male"," white"," stage:i"," dead",206,30.2,"low",0,0.564383561643836
+"TCGA-AA-3989-01A","84 years"," male",""," stage:iv"," dead",242,29.9,"low",0,0.663013698630137
+"TCGA-AZ-4616-01A","82 years"," female"," white"," stage:iv"," dead",156,29.5,"low",0,0.427397260273973
+"TCGA-AG-3583-01A","66 years"," male",""," stage:iv"," dead",610,29.5,"low",0,1.67123287671233
+"TCGA-DM-A288-01A","68 years"," male"," white"," stage:iiic"," dead",427,29,"low",0,1.16986301369863
+"TCGA-DM-A1D8-01A","50 years"," female"," white",""," dead",383,29,"low",0,1.04931506849315
+"TCGA-AA-3952-01A","68 years"," male",""," stage:iiic"," dead",61,28.3,"low",0,0.167123287671233
+"TCGA-AG-3574-01A","89 years"," female",""," stage:ii"," dead",1096,27.9,"low",0,3.0027397260274
+"TCGA-A6-2682-01A","70 years"," male"," white"," stage:iv"," dead",424,27,"low",0,1.16164383561644
+"TCGA-AD-6889-01A","male"," asian",""," stage:iia"," dead",2532,27,"low",0,6.93698630136986
+"TCGA-DM-A280-01A","70 years"," female"," white"," stage:iia"," dead",236,26.2,"low",0,0.646575342465753
+"TCGA-DM-A0XD-01A","65 years"," male"," white"," stage:iia"," dead",743,25.6,"low",0,2.03561643835616
+"TCGA-AA-3715-01A","77 years"," male",""," stage:ii"," dead",579,25.3,"low",0,1.58630136986301
+"TCGA-F4-6809-01A","52 years"," female"," white"," stage:iva"," dead",403,24.9,"low",0,1.1041095890411
+"TCGA-DY-A1DG-01A","75 years"," male"," white"," stage:iva"," dead",1566,24.7,"low",0,4.29041095890411
+"TCGA-AZ-6607-01A","69 years"," male"," white"," stage:iv"," dead",97,24.3,"low",0,0.265753424657534
+"TCGA-AA-A024-01A","81 years"," male",""," stage:ii"," dead",1188,23.1,"low",0,3.25479452054795
+"TCGA-A6-2683-01A","57 years"," female"," white"," stage:iv"," dead",504,22.7,"low",0,1.38082191780822
+"TCGA-A6-2686-01A","81 years"," female"," white"," stage:iia"," dead",1126,22.6,"low",0,3.08493150684932
+"TCGA-AY-4071-01A","63 years"," female"," white"," stage:i"," dead",29,21.8,"low",0,0.0794520547945206
+"TCGA-DY-A1DD-01A","77 years"," female"," white"," stage:iiib"," dead",1741,21.3,"low",0,4.76986301369863
+"TCGA-DY-A1DF-01A","73 years"," female"," white"," stage:iiic"," dead",734,18.4,"low",0,2.01095890410959
+"TCGA-AA-A03F-01A","90 years"," female",""," stage:iii"," dead",549,17.1,"low",0,1.5041095890411

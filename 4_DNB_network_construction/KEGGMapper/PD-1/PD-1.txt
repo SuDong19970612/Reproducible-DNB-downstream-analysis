@@ -1,0 +1,6 @@
+[BATF, HIF1A, LCK, PPP3CB, STAT3]
+K05856 ,blue
+K09034 ,blue 	
+K11220 ,blue	
+K08268 ,blue
+K04348 ,blue   

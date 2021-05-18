@@ -1,0 +1,9 @@
+INFO [2020-09-08 18:02:08] [[1]]
+INFO [2020-09-08 18:02:08] list(NODEG = NoDEG$hgnc_symbol, DEG = DEG$hgnc_symbol)
+INFO [2020-09-08 18:02:08] 
+INFO [2020-09-08 18:02:08] $fill
+INFO [2020-09-08 18:02:08] c("red", "blue")
+INFO [2020-09-08 18:02:08] 
+INFO [2020-09-08 18:02:08] $filename
+INFO [2020-09-08 18:02:08] [1] "result/venn/CrulGene.tiff"
+INFO [2020-09-08 18:02:08] 
